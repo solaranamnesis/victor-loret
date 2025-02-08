@@ -28,7 +28,7 @@ Les recettes grecques nous ont été transmises par Dioscoride,* Plutarque* et G
 
 « Le kyphi est un parfum à brûler fort recherché pour le culte, et dont les prêtres égyptiens font le plus grand usage. On le mélange aussi aux antidotes, et on le donne en boisson aux asthmatiques. Il existe plusieurs recettes de ce parfum ; voici l'une d'entre elles : »
 
-« Prenez un demi-setier de cyperus, et la même quantité de baies de genièvre bien grasses ; 12 mines de raisins secs charnus, débarrassés de leurs pépins ; 5 mines de résine purifée ; calame aromatique, aspalathe, schœnus, 1 mine de chaque ; myrrhe, drachmes; vin vieux, 9‎ setiers; miel, 2 mines. »
+« Prenez un demi-setier de cyperus, et la même quantité de baies de genièvre bien grasses ; 12 mines de raisins secs charnus, débarrassés de leurs pépins ; 5 mines de résine purifée ; calame aromatique, aspalathe, schœnus, 1 mine de chaque ; myrrhe, drachmes; vin vieux, 9 setiers ; miel, 2 mines. »
 
 « Après avoir débarrassé les raisins secs de leurs pépins, hachez-les et broyez-les avec le vin et la myrrhe ; pilez ensuite les autres substances, mélanges-les aux précédentes, et laissez macérer le tout pendant une journée. »
 
@@ -54,7 +54,7 @@ Les recettes grecques nous ont été transmises par Dioscoride,* Plutarque* et G
 
 « C'est ainsi que Rufus, homme excellent et habile praticien, nous apprend que l'on prépare le kyphi. Quelques-uns, lorsqu'ils n'ont pas de cinnamome à leur disposition, emploient en place des graines de cardamome et les traitent de même. On donne le kyphi à boire, à la dose d'une drachme, à ceux qui souffrent du foie, des poumons, ou des autres parties internes.* »
 
-*) Éd. D. C. Gottlob Köhn, _Lipsiæ_, 1827.
+*) Éd. D. C. Gottlob Kühn, _Lipsiæ_, 1827.
 
 Dioscoride n'indique pour le kyphi que onze substances, en considérant, ainsi que le fait Plutarque, les deux espèces de genièvre comme deux substances. Plutarque et Galien en indiquent seize, et l'auteur du traité _Sur Isis et Osiris_ insiste sur la raison qui a motivé ce nombre spécial. En fait, les recettes égyptiennes, comme on le verra plus loin, énumèrent effectivement seize ingrédients.
 
@@ -73,5 +73,29 @@ M. G. Parthey, auteur d'une édition du traité de Plutarque, a eu la curiosité
 Si j'ai tenu à rassembler ici les trois principales recettes grecques que nous possédons du kyphi, c'est surtout pour en utiliser les données au point de vue de l'identification de certaines plantes égyptiennes. C'est donc dans l'étude des noms hiéroglyphiques de ces plantes que nous aurons l'occasion d'examiner avec plus de détails les ingrédients mêmes qui entrent dans la composition du parfum.
 
 # 2\.
+
+Un point reste à éclaircir avant d'entreprendre la traduction des recettes égyptiennes. Quel est le mot hiéroglyphique qui a donné lieu à la transcription κῦφι‎ et quel en est le sens exact ?
+
+D'après toutes les descriptions classiques que nous possédons, le κῦφι est un parfum _à brûler_, θυμίαμα ; c'est là un fait acquis. La composition même du kyphi, --- dans lequel entrent plus de 25 p. % de résines (myrrhe, lentisque et térébenthine) et presque autant de racines et de bois odoriférants, --- nous prouve qu'il ne pouvait guère en être autrement. Que le kyphi ait été employé à des usages divers par les médecins gréco-latins, cela ne change en rien la destination primitive du parfum égyptien, qui était de servir à encenser les dieux.
+
+Or, un radical égyptien, [HIERO], [HIERO], [HIERO], _kap_, a précisément ce sens spécial de « brûler un parfum, » ou mieux, d'une manière plus restreinte et précise, celui de « brûler un corps qui dégage de la fumée sans flammes.* » Ce sens, je crois, n'a jamais été relevé, et il est utile d'en réunir des exemples :
+
+*) Un radical **kap** existe avec le même sens dans les langues indoeuropéennes (P. Regnaud, _Essais de linguistique évolutionniste_, p. 216).
+
+[HIERO] (Pépi 1, 79) « Il te donne la résine dont sont encensés les dieux ; »
+
+[HIERO] (Tombe de Hor-hotep, 171, _Miss. da Caire_, 1, 146) « Encenser sa tête avec de la résine ; »
+
+[HIERO] (_Ib._, 175) « Horus l'a encensé de son œil : ce défunt Hor-hotep est encensé de l'œil d'Horus, est fumigé* de l'œil d'Horus. »
+
+*) Remarquer le verbe nouveau **senter**, « encenser, » en rapport avec **senter**, « résine. » En voici un second exemple : [HIERO] (Pépi 1, 372), « tu es ablué dans Shé-saba, et encensé dans Taï-t. »
+
+Ces trois exemples, appartenant aux plus anciens textes, nous fournissent la vocalisation [HIERO] du verbe, qu'ils emploient dans le sens spécial de « fumiger (d'une fumée odorante). »
+
+Le mot **kap** se retrouve plus tard, dans des papyrus médicaux, avec le sens de « fumiger (d'une fumée odorante ou non), fumigation. »
+
+[HIERO] (_Pap. méd. de Berlin_, 7, 6) « Remède pour guérir la piqûre d'un scorpion. Bois épineux, cire, etc. Mettre sur le feu, en fumiger (la personne). »
+
+[HIERO] (_Pap. méd. de Berlin_, 7, 2) « Fumigation pour guérir les gonflements dans toute maladie.‏ Bois épineux, etc. En fumiger la personne. »
 
 ...
