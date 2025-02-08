@@ -4,9 +4,9 @@
 
 # Par M. Victor Loret.
 
-## Journal Asiatique, Huitième Série.
+## Journal Asiatique, Huitième Série. Tome 10.
 
-### Tome 10 --- Juillet-août 1887.
+### Juillet-août 1887.
 
 ---
 
@@ -16,7 +16,7 @@
 
 Les auteurs classiques nous ont fait connaître l'existence, chez les anciens Égyptiens, d'un parfum sacré dont ils transcrivent le nom κῦφι. Je réserverai pour un prochain travail l'étude du kyphi au point de vue de‎ son emploi dans le culte égyptien et de son importation dans le monde gréco-romain. Je ne veux aujourd'hui que comparer, aux trois plus anciennes recettes fournies par les auteurs grecs, trois inscriptions d'époque ptolémaïque qui nous enseignent, en hiéroglyphes, la manière de préparer ce parfum.
 
-Les recettes grecques nous ont été transmises par Dioscoride,* Plutarque* et Galien.* En voici la traduction:
+Les recettes grecques nous ont été transmises par Dioscoride,* Plutarque* et Galien.* En voici la traduction :
 
 *) _De materia medica_, 1, 24.
 
@@ -28,7 +28,7 @@ Les recettes grecques nous ont été transmises par Dioscoride,* Plutarque* et G
 
 « Le kyphi est un parfum à brûler fort recherché pour le culte, et dont les prêtres égyptiens font le plus grand usage. On le mélange aussi aux antidotes, et on le donne en boisson aux asthmatiques. Il existe plusieurs recettes de ce parfum ; voici l'une d'entre elles : »
 
-« Prenez un demi-setier de cyperus, et la même quantité de baies de genièvre bien grasses ; 12 mines de raisins secs charnus, débarrassés de leurs pépins ; 5 mines de résine purifée ; calame aromatique, aspalathe, schœnus, 1 mine de chaque ; myrrhe, drachmes; vin vieux, ن‎ setiers; miel, 2 mines. »
+« Prenez un demi-setier de cyperus, et la même quantité de baies de genièvre bien grasses ; 12 mines de raisins secs charnus, débarrassés de leurs pépins ; 5 mines de résine purifée ; calame aromatique, aspalathe, schœnus, 1 mine de chaque ; myrrhe, drachmes; vin vieux, 9‎ setiers; miel, 2 mines. »
 
 « Après avoir débarrassé les raisins secs de leurs pépins, hachez-les et broyez-les avec le vin et la myrrhe ; pilez ensuite les autres substances, mélanges-les aux précédentes, et laissez macérer le tout pendant une journée. »
 
