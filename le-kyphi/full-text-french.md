@@ -4,9 +4,9 @@
 
 # Par M. Victor Loret.
 
-## Journal Asiatique, Huitième Série.
+## Journal Asiatique, Huitième Série. Tome 10.
 
-### Tome 10 --- Juillet-août 1887.
+###  Juillet-août 1887.
 
 ---
 
