@@ -28,7 +28,7 @@ Les recettes grecques nous ont été transmises par Dioscoride,* Plutarque* et G
 
 « Le kyphi est un parfum à brûler fort recherché pour le culte, et dont les prêtres égyptiens font le plus grand usage. On le mélange aussi aux antidotes, et on le donne en boisson aux asthmatiques. Il existe plusieurs recettes de ce parfum ; voici l'une d'entre elles : »
 
-« Prenez un demi-setier de cyperus, et la même quantité de baies de genièvre bien grasses ; 12 mines de raisins secs charnus, débarrassés de leurs pépins ; 5 mines de résine purifée ; calame aromatique, aspalathe, schœnus, 1 mine de chaque ; myrrhe, drachmes; vin vieux, ن‎ setiers; miel, 2 mines. »
+« Prenez un demi-setier de cyperus, et la même quantité de baies de genièvre bien grasses ; 12 mines de raisins secs charnus, débarrassés de leurs pépins ; 5 mines de résine purifée ; calame aromatique, aspalathe, schœnus, 1 mine de chaque ; myrrhe, drachmes; vin vieux, 9 setiers; miel, 2 mines. »
 
 « Après avoir débarrassé les raisins secs de leurs pépins, hachez-les et broyez-les avec le vin et la myrrhe ; pilez ensuite les autres substances, mélanges-les aux précédentes, et laissez macérer le tout pendant une journée. »
 
