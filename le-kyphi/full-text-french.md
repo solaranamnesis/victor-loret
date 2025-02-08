@@ -16,7 +16,7 @@
 
 Les auteurs classiques nous ont fait connaître l'existence, chez les anciens Égyptiens, d'un parfum sacré dont ils transcrivent le nom κῦφι. Je réserverai pour un prochain travail l'étude du kyphi au point de vue de‎ son emploi dans le culte égyptien et de son importation dans le monde gréco-romain. Je ne veux aujourd'hui que comparer, aux trois plus anciennes recettes fournies par les auteurs grecs, trois inscriptions d'époque ptolémaïque qui nous enseignent, en hiéroglyphes, la manière de préparer ce parfum.
 
-Les recettes grecques nous ont été transmises par Dioscoride,* Plutarque* et Galien.* En voici la traduction:
+Les recettes grecques nous ont été transmises par Dioscoride,* Plutarque* et Galien.* En voici la traduction :
 
 *) _De materia medica_, 1, 24.
 
