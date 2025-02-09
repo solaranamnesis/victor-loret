@@ -98,4 +98,26 @@ Le mot **kap** se retrouve plus tard, dans des papyrus médicaux, avec le sens d
 
 [HIERO] (_Pap. méd. de Berlin_, 7, 2) « Fumigation pour guérir les gonflements dans toute maladie.‏ Bois épineux, etc. En fumiger la personne. »
 
+Le même papyrus contient environ une trentaine de recettes analogues,* que je me dispenserai de reproduire, dans lesquelles le mot [HIERO], [HIERO] est employé, dans les titres, avec le sens nominal de « fumigation, » et, dans le corps de la formule, avec le sens verbal de « fumiger. »
+
+*) Ppl. 5-7.
+
+[HIERO] (_Pap. Ebers_, 94, 3-5). « Autre [recette pour rétablir la matrice dans sa position normale]. Excréments humains secs. Mêler à de la résine. En fumiger la femme en faisant pénétrer, à l'intérieur de son vagin, la fumée qui s'en dégage. »
+
+Dans ce même traité de médecine, il est fait mention d'un parfum à brûler que des femmes doivent [HIERO] (98, 12 et sqq), « former en pastilles pour s'en fumiger. »‏
+
+Ces nombreux exemples nous prouvent d'une manière formelle l'existence d'un verbe actif* [HIERO], [HIERO], _kap_, signifiant « fumiger, encenser, » et d'un substantif [HIERO] signifiant « fumigation. »
+
+*) Employé parfois sans complément : [HIERO] (_Pap. méd. de Berlin_, 6, 3).
+
+Un nouveau mot, dérivé du même radical, présente le sens de « parfum à brûler. »
+
+[HIERO] (_Pap. Ebers_, 98, 12). « Parfum à brûler : choses à faire pour parfumer une habitation ou du linge. »
+
+Ce mot, féminin, devant se lire _kapi_ ou _kouphi_, nous donne l'origine de la transcription grecque κῦφι.
+
+Le [HIERO] du _Papyrus Ebers_ est un parfum à brûler quelconque, et la meilleure preuve en est qu'aucun des ingrédients qui le composent ne se retrouve dans les recettes du kyphi que nous analyserons plus loin. D'autres exemples de ce sens général se rencontrent dans des textes ptolémaïques.
+
+[HIERO] (Br. et Düm., _Rec._, 4, 98, 1-2). « Je t'apporte tous les aromates que l'on prépare sous forme de parfums à brûler à l'usage de ton culte. »‎ [HIERO] (_Ib._, 80, h). « Un brûle-parfums avec des parfums à brûler en lui.‏ »
+
 ...
