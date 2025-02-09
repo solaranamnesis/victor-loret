@@ -183,3 +183,5 @@ A\. [HIERO] [HIERO] [HIERO]
 B\. [HIERO] [HIERO] [HIERO]
 
 « 1° _Kanen_ ; 2° _Shou-ament_ ; 3° _Sheb_ ; 4° _Écorce de Qat_ ; 5° _Tas_ ; 6° _Akaï_ ; 7° _Djabâï-t_. Total, sept aromates, faisant, en _ten_, vingt et un. Piler très fin, passer au crible. »
+
+...
