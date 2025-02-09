@@ -157,7 +157,7 @@ A\. [HIERO]
 B\. [HIERO]
 
 A\. [HIERO]
-بابر لاف ريه 1 
+
 Ces deux textes correspondent exactement l'un à l'autre pour la première partie du titre : _Recette pour faire le kyphi deux fois bon pour les choses divines._ Seul, le texte **A** donne la suite : _à l'usage des temples_ : _kyphi pesant_ ten _cent en nombre_. Cette indication de la quantité à obtenir a une grande importance, car nous verrons qu'en effet le poids total du parfum résultant de la préparation se trouve, à quelques grammes près, arriver à cent _ten_. 
 
 Le texte **C** donne, sous une autre forme, un titre presque analogue, et dans lequel il est également fait mention des cent _ten_ :
