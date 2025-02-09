@@ -120,4 +120,66 @@ Le [HIERO] du _Papyrus Ebers_ est un parfum à brûler quelconque, et la meilleu
 
 [HIERO] (Br. et Düm., _Rec._, 4, 98, 1-2). « Je t'apporte tous les aromates que l'on prépare sous forme de parfums à brûler à l'usage de ton culte. »‎ [HIERO] (_Ib._, 80, h). « Un brûle-parfums avec des parfums à brûler en lui.‏ »
 
-...
+Enfin, une espèce particulière de parfum à brûler est désignée sous la dénomination officielle [HIERO] (_Ib._, 80, e), [HIERO] (_Ib._, 82, 1), [HIERO] (_Ib._, 84, 1), « parfum à brûler deux fois bon, à l'usage du culte. » C'est ce parfum spécial, dont nous allons étudier les recettes, qui répond au κῦφι des Grecs.
+
+Voici, en résumé, la liste des formes du radical égyptien dont le mot κῦφι n'est que la transcription grecque :
+
+1° [HIERO], [HIERO], [HIERO], [HIERO], [HIERO], _kapou_, « fumiger, encenser ; »
+
+2° [HIERO], _kapou_, « fumigation ; »
+
+3° [HIERO], [HIERO], [HIERO], [HIERO], _koupi-t_, « parfum à brûler, » d'où [HIERO], _âkh nou koupi-t_, « brûle-parfums ; »
+
+4° [HIERO] et variantes, « _Koupi_ (_kouphi_) deux fois bon, à l'usage du culte. » Nom officiel du kyphi.
+
+Des trois textes hiéroglyphiques qui nous ont transmis la forme égyptienne de la recette du kyphi, deux se trouvent à Edfou, et le troisième à Philé. Les deux textes d'Edfou, assez différents l'un de l'autre quant à la forme, sont datés du règne de Ptolémée 7, et ont été copiés par M. J. Dümichen.* Le texte de Philé, également d'époque ptolémaïque, ne porte aucun nom de souverain. C'est une version presque littérale du premier des deux textes d'Edfou. Il a été publié par Champollion,* Brugsch* et Dümichen.* J'ai revu moi-même soigneusement ces trois copies lors de mon passage à Philé, et c'est le texte collationné et corrigé que je transcris plus loin.
+
+*) Br. et Düm., _Rec._, 4, 82, 83.
+
+*) _Not. descript._, 1, 194.
+
+*) Br. et Düm., _Rec., 2, 79. Cette copie ne donne que trois colonnes sur six que comporte la recette.
+
+*) _Ib._, 4, 84.
+
+La recette du kyphi se divise naturellement en cinq sections, qui indiquent autant de phases des manipulations, et que nous traiterons chacune à part pour la commodité et la clarté de l'étude. C'est là un procédé fort utile à employer, qui permet de mieux préciser les détails d'un long texte sans en modifier en rien la forme d'ensemble. Je désigne par **A** le premier texte d'Edfou,* par **B** celui de Philé, et par **C** le second texte d'Edfou.* J'ajouterai enfin que, le commentaire de ces inscriptions étant déjà assez embarrassé par des remarques philologiques et mathématiques, je réserverai pour un chapitre spécial l'identification des divers ingrédients mentionnés dans la recette du kyphi, me contentant, dans la traduction littérale, d'en donner simplement la transcriplion en lettres françaises.
+
+*) _Ib._, 4, 82.
+
+*) _Ib._, 4, 83.
+
+# 3\.
+
+Voici, l'une sous l'autre, les rédactions du titre fournies par les textes **A** et **B** :
+
+A\. [HIERO]
+
+B\. [HIERO]
+
+A\. [HIERO]
+بابر لاف ريه 1 
+Ces deux textes correspondent exactement l'un à l'autre pour la première partie du titre : _Recette pour faire le kyphi deux fois bon pour les choses divines._ Seul, le texte **A** donne la suite : _à l'usage des temples_ : _kyphi pesant_ ten _cent en nombre_. Cette indication de la quantité à obtenir a une grande importance, car nous verrons qu'en effet le poids total du parfum résultant de la préparation se trouve, à quelques grammes près, arriver à cent _ten_. 
+
+Le texte **C** donne, sous une autre forme, un titre presque analogue, et dans lequel il est également fait mention des cent _ten_ :
+
+C\. [HIERO]
+
+« Autre recette pour faire le kyphi de cent _ten_ en sa quantité totale.* »
+
+*) [HIERO] me semble être une variante de [HIERO] et désigner la quantité totale « à peu de chose près. » Le poids obtenu, en effet, comme nous le verrons par la suite, n'est pas exactement de cent _ten_, mais de _ten_ 100,2. J. As. Extrait n° 16. (1887.)
+
+La recette débute par l'énumération de sept substances aromatiques et la spécification de leur poids.
+
+A\. [HIERO] [HIERO] [HIERO]
+
+B\. [HIERO] [HIERO] [HIERO]
+
+A\. [HIERO] [HIERO] [HIERO]
+
+B\. [HIERO] [HIERO] [HIERO]
+
+A\. [HIERO] [HIERO] [HIERO]
+
+B\. [HIERO] [HIERO] [HIERO]
+
+« 1° _Kanen_ ; 2° _Shou-ament_ ; 3° _Sheb_ ; 4° _Écorce de Qat_ ; 5° _Tas_ ; 6° _Akaï_ ; 7° _Djabâï-t_. Total, sept aromates, faisant, en _ten_, vingt et un. Piler très fin, passer au crible. »
