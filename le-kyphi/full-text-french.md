@@ -212,4 +212,36 @@ C\. [HIERO]
 
 *) Remarquer la variante _Rohaï_ au lieu de _Rohani_.
 
+Les trois textes sont bien conformes l'un à l'autre, à part pour les quantités qui, du reste, varieront jusqu'à la fin entre **A** **B** et **C**. La seule différence est que **A** **B** ne réserve pour le _Nouti_, et par suite pour le kyphi, que les 2/5 de la masse, tandis que **C** en réserve les 3/5.
+
+Il reste à examiner, avant de passer à la seconde section, ce qu'est le _Rohani_ et ce qu'est le _Nouti_. Le mot [HIERO], [HIERO], [HIERO], dérivé vraisemblablement de la racine [HIERO], « broyer, » que nous avons déjà rencontrée dans notre texte, se rapporte au copte [COPTIC], [COPTIC], [COPTIC], ἄλευρον, σεμίδαλις, _farina_, _similago_, dérivé, comme [HIERO] de [HIERO], du verbe [COPTIC], ἀλήθειν, _molere_. Ce serait donc, d'une manière générale, non pas la farine, mais la poudre aromatique résultant du broiement des ingrédients.
+
+On possède de nombreux exemples de [HIERO] dans son sens spécial de « farine » de céréales (froment, orge, sorgho, etc.) ; le sens plus général de « poudre » quelconque est prouvé, en dehors de notre texte, par les différentes phrases citées plus loin, ainsi que par l'expression [HIERO],* qui se rencontre dans une autre recette de parfumerie.
+
+*) H. Brugsch et J. Dümichen, _Rec. de mon. égypt._, 4, 89, 11.
+
+Comme nous le verrons en identifiant les termes botaniques mentionnés dans cette première section, les aromates énumérés jusqu'ici doivent en partie être employés frais pour donner toute leur odeur.
+
+Le mot [HIERO] indique une masse pulvérulente _sèche_, ou relativement sèche ; pour l'obtenir, il fallait donc débarrasser les plantes du suc qu'elles renfermaient, ou au moins d'une grande partie de ce suc. Je crois que le terme _Rohani_ désigne justement cette partie liquide des aromates. La façon dont les mots _Nouti_ et _Rohani_ sont employés, dans ce texte et dans quelques autres, donne une grande vraisemblance à cette manière de voir. Voici trois passages analogues au nôtre, tirés tous trois du temple d'Edfou :
+
+[HIERO]*
+
+[HIERO]*
+
+[HIERO]*
+
+*) Brugsch et Dümichen, _l. c._, 93, 30.
+
+*) _Ib._, 94, 35.
+
+*) _Ib._, 94, 41.
+
+« Débarrasser la masse du _Rohani_ qui est en elle ; enlever sa poudre première. » Les mots [HIERO] indiquent bien que le _Rohani_ est une partie constituante des aromates ; le texte **C** donne également [HIERO]. De plus, _Nouti_ est désigné comme étant la partie principale, [HIERO], des ingrédients, et c'est en effet la seule dont on fasse usage. Tout végétal se compose d'une partie solide et d'une partie liquide. _Nouti_ désignant la‎ partie solide, _Rohani_ ne peut logiquement désigner que la partie liquide. Ce sens est, d'autre part, rendu presque certain par l'expression [HIERO], employée dans le texte **C** : « après avoir extrait de la masse le _Rohani_ qui est en elle, **il reste** la partie principale, c'est-à-dire le _Nouti_ ou poudre. » La partie solide d'un végétal est généralement plus considérable que sa partie liquide ; aussi voyons-nous le texte **C**, ainsi que les trois autres que nous venons de citer, attribuer au _Rohani_ la plus faible partie de la quantité totale, soit 2/5, 1/4, 1/3. En un mot, le texte même de notre recette nous amène à voir dans le _Rohani_ le suc des plantes.
+
+Pourtant, en étudiant le mot au point de vue philologique, nous sommes tentés de lui donner un sens moins restreint, d'autant plus qu'il est plus prudent, en ces sortes de recherches, de généraliser un peu que de vouloir trop spécifier. Nous avons relevé six exemples du mot : [HIERO] (deux fois), [HIERO], [HIERO] et [HIERO]. Nous nous trouvons en présence de deux formes, _Rohaï_ et _Rohani_. Mais est-il bien certain que ce soient deux formes ? Le [HIERO] de [HIERO] ne pourrait-il, au besoin, être considéré comme un déterminatif, de même que le [HIERO] de [HIERO], bien que la lettre [HIERO] vienne après ? La forme [HIERO] ne pourrait-elle pas être prise pour une transcription fautive de l'orthographe [HIERO], dans laquelle le [HIERO] aurait été envisagé, à tort, comme équivalent de [HIERO] ? Il serait étrange de trouver, à la même époque et dans une même localité, deux formes si différentes d'un même mot. D'ailleurs, peu importe que le [HIERO] soit fautif ou non, le radical du mot égyptien n'en reste pas moins [HIERO].
+
+Un mot copte, [COPTIC], [COPTIC], [COPTIC], βόρβορος, ἰλὺς, _lutum_, _limus_, servirait à expliquer notre groupe. [HIERO] serait le « résidu bourbeux » du broyage et du criblage, le suc rendu épais par les déchets restés sur le tamis. Ce serait, non la sève pure et limpide, mais la masse humide formée d'une certaine quantité de suc mêlée à la partie grossière des aromates.* [HIERO] est la masse pulvérulente principale, triée, essentielle ; [HIERO] est tout ce qui n'entre pas dans cette masse. Ce sens, plus général que celui de suc, convient d'autant mieux ici que, d'une part, il me paraît impossible d'extraire d'une certaine quantité d'aromates, dont quelques-uns sont ligneux, les 2/3 et même les 3/5 de suc pur, et que, d'autre part, ce suc lui-même constitue souvent la partie la plus odorante d'une plante et ne peut être, par conséquent, rejeté de parti pris.
+
+*) Cf., d'une part, [HEBREW], _humectavit_, [HEBREW], _humidus_, et, d'autre part, [ARABIC], « enlever l'écorce. »
+
 ...
