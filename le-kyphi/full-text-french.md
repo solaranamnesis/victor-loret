@@ -184,4 +184,32 @@ B\. [HIERO] [HIERO] [HIERO]
 
 « 1° _Kanen_ ; 2° _Shou-ament_ ; 3° _Sheb_ ; 4° _Écorce de Qat_ ; 5° _Tas_ ; 6° _Akaï_ ; 7° _Djabâï-t_. Total, sept aromates, faisant, en _ten_, vingt et un. Piler très fin, passer au crible. »
 
+L'identité est complète entre les deux textes, à part au sujet des quantités. Le texte **A** indique pour chaque substance un poids de 3 _ten_, ce qui donne 7 x 3 = 21. Le texte **B** indique le même poids pour cinq substances seulement ; la première n'en pèse que 2, et, par compensation, la cinquième en pèse 4, ce qui donne (5 x 3) + 2 + 4 = 21. En somme, le poids total reste le même dans les deux cas.
+
+Le texte **C** mentionne les sept mêmes substances, mais en les rangeant dans un ordre différent ; de plus, les quantités ne sont pas les mêmes que celles des textes **A** et **B**. Enfin, chaque ingrédient est désigné sous deux noms synonymes, ce qui nous sera d'une grande utilité pour les identifications botaniques.
+
+C\. [HIERO]
+
+« 1° Écorce de _Qat_, autrement dit Bois de _Qat_ : _ten_ 3, _qat_ 3 1/3 ; 2° _Tas_, autrement dit Bois odorant :‏ _ten_ 3, _qat_ 3 1/3 ; 3° _Kanen_, autrement dit Roseau‏ odorant : _ten_ 2, _qat_ 5 ; 4° _Shou-ament_, autrement‏ dit Jonc d'Éthiopie : _ten_ 1, _qat_ 5 ; 5° _Akaï_, autrement‏ dit _Nekpet_ : _ten_ 2, _qat_ 5 ; 6° _Sheb_, autrement dit _Fet_ :‏ _ten_ 2 ; 7° _Djabâï-t_, autrement dit _Djalem_, _ten_ 2.‏ Pour les aromates, 7 ; pour les _ten_, 17, 1 2/3. Les‏ mettre dans un mortier et les broyer.‏ »
+
+Cette première section se termine par la division en deux parties de la masse obtenue, la première partie devant être laissée de côté, et la seconde seule devant être utilisée pour la préparation du kyphi.
+
+A\. [HIERO]
+
+B\. [HIERO]
+
+A\. [HIERO]
+
+B\. [HIERO]
+
+« Extraire les 3/5 de la masse (litt. les 1/2 + 1/10) sous forme de _Rohani_, soit _ten_ 12, _qat_ 6. Enlever les 2/5 qui restent (litt. les 1/3 + 1/15) sous forme de _Nouti_, soit _ten_ 8, _qat_ 4. »
+
+Le texte **C** donne les mêmes indications, qui varient naturellement par la quantité, puisque la masse à diviser, au lieu de 21 _ten_, n'en pèse que 17, 1 2/3.
+
+C\. [HIERO]
+
+« Extraire de la masse les 2/5 du _Rohaï_* qui est en elle, soit _ten_ 6, 8 2/3 ; il reste la partie principale, sous forme de _Nouti_, pesant _ten_ 10, 3. »
+
+*) Remarquer la variante _Rohaï_ au lieu de _Rohani_.
+
 ...
