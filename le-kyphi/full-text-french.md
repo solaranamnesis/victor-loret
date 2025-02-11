@@ -166,7 +166,7 @@ C\. [HIERO]
 
 « Autre recette pour faire le kyphi de cent _ten_ en sa quantité totale.* »
 
-*) [HIERO] me semble être une variante de [HIERO] et désigner la quantité totale « à peu de chose près. » Le poids obtenu, en effet, comme nous le verrons par la suite, n'est pas exactement de cent _ten_, mais de _ten_ 100,2. J. As. Extrait n° 16. (1887.)
+*) [HIERO] me semble être une variante de [HIERO] et désigner la quantité totale « à peu de chose près. » Le poids obtenu, en effet, comme nous le verrons par la suite, n'est pas exactement de cent _ten_, mais de _ten_ 100,2.
 
 La recette débute par l'énumération de sept substances aromatiques et la spécification de leur poids.
 
@@ -268,7 +268,7 @@ C\. [HIERO]
 
 Ce texte indique bien que le poids total mentionné à la fin est celui de toutes les substances réunies, qui sont déjà au nombre de 11. La somme, dans le texte **C**, se décompose ainsi : 10,3 + 6 + 3 = 19,3.
 
-Nous n'avons, jusqu'ici, qu'une masse odorante présentant la forme de poudre. Si, en effet, **AB** n'indique pas que les quatre nouvelles substances doivent être réduites en poudre, **C** l'indique bien clairement, d'abord par le mot [HIERO], s'appliquant spécialement à la dernière substance, ensuite par le mot [HIERO] désignant, avant le total général, l'aspect du corps odorant obtenu. Cette poudre va maintenant changer de consistance, grâce à l'intervention du vin, qui en formera une pâte et en augmentera nécessairement le poids.
+Nous n'avons, jusqu'ici, qu'une masse odorante présentant la forme de poudre. Si, en effet, **A** **B** n'indique pas que les quatre nouvelles substances doivent être réduites en poudre, **C** l'indique bien clairement, d'abord par le mot [HIERO], s'appliquant spécialement à la dernière substance, ensuite par le mot [HIERO] désignant, avant le total général, l'aspect du corps odorant obtenu. Cette poudre va maintenant changer de consistance, grâce à l'intervention du vin, qui en formera une pâte et en augmentera nécessairement le poids.
 
 A\. [HIERO]
 
@@ -317,5 +317,112 @@ B\. [HIERO]
 A\. [HIERO]
 
 B\. [HIERO]
+
+« _Shep_ de Testes, _hin_ 6 2/3, pesant _ten_ 20, _Arhor_ vert, _hin_ 5, pesant _ten_ 25, ce qui fait en tout _ten_ 45. Broyer très fin, enfermer dans un récipient. Enlever le tiers en déchets, soit _ten_ 15, et mélanger au kyphi les deux autres tiers, soit _ten_ 30, de sorte que le kyphi, en son entier, se trouve atteindre le poids de _ten_ 62,9 (= 32,9 + 30). »
+
+Le texte **C** est beaucoup plus explicite dans cette section et nous permettra de déterminer le sens de quelques groupes douteux des textes **A** **B**.
+
+C\. [HIERO]
+
+« _Shep_ de Testes, autrement dit Raisins d'oasis, _hin_ 4 dont chacun pèse 3 _ten_, ce qui fait 12 _ten_‏ en tout. Cette quantité comprenant un tiers de déchets, soit 4 _ten_, il reste 8 _ten_ à employer. »‏
+
+[HIERO]
+
+[HIERO]
+
+« _Ar-hor_ vert, autrement dit Vin d'oasis, _hin_ 5 dont chacun pèse 5 _ten_, ce qui fait 25 _ten_ en tout. Ce qui se perd de vin en le mêlant aux raisins étant de _hin_ 5/6, soit 1/6 du tout, ou _ten_ 4, 1 2/3, il reste à employer _ten_ 20,8 1/3. »
+
+[HIERO]
+
+« Mettre le tout dans le récipient, autrement dit _Mârekh_, de sorte que les aromates imprégnés pour le kyphi s'élèvent en tout au poids de _ten_ 60,6 1/3 (= 31,8 x 8 x 20,8 1/3). --- Les laisser jusqu'au cinquième jour. »
+
+Il nous reste, pour complèter l'étude de cette section, à élucider quelques termes nouveaux.
+
+Le groupe [HIERO] **A**, var. [HIERO] **C**, doit se lire _χnoum our-t_. Le déterminatif représente un récipient circulaire, concave, muni d'un manche. Le synonyme [HIERO] donné par le texte **C**, semble indiquer que ce récipient est en cuivre, d'abord à cause du déterminatif [HIERO], ensuite à cause de son sens radical [COPTIC], πυῤῥὸς, _rufus_, _rubicundus_, qui fait allusion à la couleur du métal. Ce récipient devait être de grande dimension, puisqu'il peut contenir près de 63 _ten_ de matières, soit un peu moins de 6 kilogrammes. Son nom _χnoum our-t_, « le grand réunisseur, »‏ vient de ses dimensions et de son emploi dans les mélanges de laboratoires ; c'est une sorte de grande bassine en cuivre. Le même mot, du reste, se rencontre dans un texte que j'ai déjà étudié,* sous la forme [HIERO], dans laquelle le manche du récipient se termine par un crochet. Il s'agit, dans ce texte, d'une bassine pouvant contenir au moins 4 litres d'un mélange de terre, encens, myrrhe, etc.
+
+*) V. Loret, _Les Fêtes d'Osris au mois de Khoïak_, § 93 (_Rec._, 5, 89).
+
+Une nouvelle expression est rendue par trois synonymes, [HIERO], [HIERO] et [HIERO]. Ces mots servent à désigner la partie des raisins secs qu'on ne peut utiliser et que l'on doit jeter ; d'où le sens général « déchets » que je leur ai donné. Les recettes de Dioscoride et de Galien disent qu'avant d'employer les raisins secs, on doit les débarrasser de leurs pépins et de leur peau. [HIERO] peut se rapprocher du copte [COPTIC], δορὰ, δέῤῥις, δέρμα, _pellis_, _corium_, et désigner la « peau » du raisin. Je sais que [COPTIC] a déjà un équivalent en hiéroglyphes sous la forme [HIERO], mais ce mot désigne spécialement le « cuir, » la peau d'un animal. [HIERO], déterminé par les trois grains, serait une forme du même mot et désignerait spécialement la « peau » des fruits. [HIERO], dans ce cas,* ne pourrait signifier que « graines, pépins. » Enfin, [HIERO], dérivé du radical [HIERO], « débarrasser, délivrer, » désignerait « la partie dont on doit se _débarrasser_, » c'est-à-dire à la fois les pépins et la peau.
+
+*) Cf. [COPTIC], [ARABIC], _granum_ (_quod ignoratur_) (_Zeitschr._, 1886, p. 91), [COPTIC], _granulum_, _nucleus fructuum_ (A. Peyron, _Lex._, p. 71).
+
+Nous devons relever, en dernier lieu, une erreur 
+de gravure qui a fait mettre, dans le texte **B**, [HIERO] au 
+lieu de [HIERO], comme poids des déchets, et l'ortho- 
+graphe curieuse [HIERO], à la fin du texte **C**, dans la 
+quelle [HIERO] est l'indication du nombre ordinal, et [HIERO] 
+une forme inusitée de [HIERO].
+
+# 6\.
+
+La masse obtenue jusqu'ici, dans laquelle entre près de la moitié du poids en vin, pèse _ten_ 62,9 pour **A** **B**, _ten_ 60,6 1/3 pour **C**, et doit avoir la consistance d'une pâte un peu fluide. La quatrième section introduit d'abord de la résine, ensuite du miel.
+
+A\. [HIERO]
+
+B\. [HIERO]
+
+A\. [HIERO]
+
+B\. [HIERO]
+
+« Résine, _ten_ 13,3 1/3. Miel, _hin_ 6 2/3, pesant _ten_ 33,3 1/5. Soit, en tout : résine et miel, _ten_ 46,6 2/3. »
+
+Le texte **B** contient deux erreurs, faciles à corriger. Au lieu de « _ten_ 33,3 1/3, » il porte « _hin_ 3,8 1/3, » indication évidemment fautive. De plus, on retrouve le mot [HIERO] employé à tort pour [HIERO], faute que nous avons déjà eu l'occasion de relever, pour le même texte, dans la troisième section.
+
+A\. [HIERO]
+
+B\. [HIERO]
+
+A\. [HIERO]
+
+B\. ...
+
+« Mettre dans une marmite. Cuire jusqu'à un degré d'épaississement* tel, que la quantité perdue au feu soit de 1/5 du poids, ou _ten_ 9,3 1/3, de sorte qu'il reste _ten_ 37,3 1/3. »
+
+*) Litt. « à un tiers d'épaississement. » [HIERO], écrit [HIERO] dans le texte **C**, paraît dériver du radical [HIERO], [HIERO], lequel a comme sens premier celui de « resserrer, contracter. » De _contracter_ à _épaissir_ la nuance est presque insaisissable : une masse qui se contracte s'épaissit nécessairement, en ce sens qu'elle présente dans un espace donné un plus grand nombre de molécules. Du reste, le sens « épaissir » est prouvé par un certain nombre d'exemples. Dans un tombeau de Béni-Hassan (Ch., _Not. descr._, 2, 371), des personnages qui renforcent la plâte en y versant de la farine sont accompagnés de la légende [HIERO], [HIERO], « épaissir la pâte. » La phrase suivante précise encore mieux le sens : [HIERO] (Br. et Düm., _Rec._, 4, 97, 16), « Si tu trouves (cet onguent) trop mou, tu l'épaissis avec de l'encens ; si tu le trouves trop dur, tu l'éclaircis avec de l'essence de styrax. » Enfin, on trouve le même mot dans cette expression : [HIERO] (_Gr. Pap. Harris_, 1, 18, 6). [HIERO] (_Pap. médic. de Londres_, fragm. 2, p. 1, l. 3), où il désigne une résine épaisse, sèche, par opposition à la résine fraîche, [HIERO]. Un nouveau mot est donc à ajouter au dictionnaire : *saq**, déterminé par [HIERO], « épaissir (au feu, par évaporation). »
+
+Ces poids sont parfaitement justes ; en effet,
+46,6 2/3 - 9,3 1/3 = 37,3 1/3. Le texte **B** s'interrompt 
+brusquement par suite d'un bourdon ; [HIERO] 
+revient en effet dans la phrase suivante, et le graveur 
+a passé tout l'ensemble de signes compris entre ces 
+deux [HIERO]. 
+
+A\. [HIERO]
+
+B\. ...
+
+A\. [HIERO]
+
+B\. [HIERO]
+
+A\. [HIERO]
+
+B\. [HIERO]
+
+« Prendre les _ten_ 62,9 de kyphi et les cuire jusqu'à ce que 1/5 du poids se perde au feu, soit _ten_ 12,6, de sorte qu'il reste _ten_ 50,3. Le poids total du parfum est alors de _ten_ 87,6 1/3 (kyphi 50,3 + résine et miel 37,3 1/3). »
+
+Il y a dans cette opération une légère erreur de calcul, reproduite dans les deux recettes **A** **B**. Le 1/5 de 62,9 est 12,5 4/5, et non pas 12,6 comme l'indique le texte. Toute la suite des indications mathématiques nous prouve que l'erreur vient de l'auteur de la recette, et non du graveur. D'autre part, le texte **B** porte à tort, avant le [HIERO] final, un signe [HIERO] qui n'a que faire dans la phrase et qui est évidemment à supprimer.
+
+Le texte **C** est, dans cette section, un peu moins explicite que les textes **A** **B**, sans lesquels on pourrait à peine le comprendre. L'emploi du feu et la perte résultant de l'évaporation n'y sont, entre autres, que fort sommairement indiqués.
+
+C\. [HIERO]
+
+« Résine fraîche, _ten_ 10. On la fait épaissir au feu de telle sorte qe la perte produite par l'évaporation soit de _ten_ 1,1 1/9, [soit 1/9 du poids total. Reste _ten_ 8,8 8/9]. »
+
+La fin de cette phrase est complètement fautive. 
+Il faut restituer, comme le prouvent le calcul des quan- 
+tités et la suite du texte, la formule suivante après
+
+[HIERO].
+
+C\. [HIERO]
+
+« Miel, _hin_ 5. Chaque _hin_ pesant _ten_ 7.5, le poids total est de _ten_ 37,5. La quantité qui se perd à la cuisson étant de 1/6, soit _ten_ 6,2 1/2, il reste _ten_ 31,2 1/2. »
+
+Encore une erreur de chiffres à signaler. Les der- 
+niers signes, d'après le calcul, doivent se lire [HIERO]. 
+
+C\. [HIERO]
 
 ...
