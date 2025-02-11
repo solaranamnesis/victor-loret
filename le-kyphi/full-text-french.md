@@ -244,4 +244,78 @@ Un mot copte, [COPTIC], [COPTIC], [COPTIC], βόρβορος, ἰλὺς, _lutum
 
 *) Cf., d'une part, [HEBREW], _humectavit_, [HEBREW], _humidus_, et, d'autre part, [ARABIC], « enlever l'écorce. »
 
+En résumé, nous traduirons la dernière partie de cette section par : « Enlever de la masse totale, en résidu bourbeux, ses 3/5 ; mettre à part la poudre essentielle qui reste, et qui forme ses 2/5. » Nous verrons plus loin que la poudre essentielle était seule employée dans la confection du kyphi. Cette masse pulvérulente légèrement imprégnée de suc, qui à elle seule constitue jusqu'ici le corps odorant mis en œuvre, s'élève, pour les textes **A** **B**, au poids de _ten_ 8,4 et, pour le texte **C**, à celui de _ten_ 10,3.
+
+# 4\.
+
+La seconde section fait intervenir d'abord quatre nouveaux ingrédients, avec l'indication de leur volume en _hin_ et de leur poids en _ten_.
+
+A\. [HIERO]
+
+B\. [HIERO]
+
+A\. [HIERO]
+
+B\. [HIERO]
+
+« _Persh_, _Sa(mert)-n-nâl_, _Peqer_, _Sheb_ ; chacun 3 _hin_, soit en tout 12 _hin_, pesant 12 _ten_. Total, _ten_ 20,4. » Nous réservons l'étude des plantes à plus‏ tard. Nous constaterons seulement qu'un bourdon‏ s'est glissé dans le texte **A** ; le graveur a confondu‏ [HIERO] avec [HIERO] qui devait venir plus loin et a placé,‏ immédiatement après, le groupe [HIERO]. La recette **B‏** donne correctement le texte. Ce total de _ten_ 20,4 indique la somme des _ten_ 8,4 de poudre obtenue dans la première section et des 12 _ten_ d'aromates nouveaux énumérés dans la seconde.
+
+L'énumération de ces quatre plantes est plus longuement détaillée dans le texte **C**. Les noms des deux premières plantes sont accompagnés de synonymes ; de plus, le dernier est différent de _Sheb_ et ne peut également en être considéré que comme un équivalent.
+
+C\. [HIERO]
+
+« _Persh_, autrement dit Grains d'_Uân_ : _hin_ 2 ; _Sannâr_, autrement dit Graines chevelues : _hin_ 2 ; _Peqer_ : _hin_ 2. Aromates, 6 _hin_. Chaque _hin_ pesant 1 _ten_, le poids total est de 6 _ten_. _Qaïoui_ d'oasis concassé : _hin_ 2. Chaque _hin_ de cette substance pesant _ten_ 1,5, le poids en est de _ten_ 3. Soit, pour les onze aromates réduits en poudre, un poids total de _ten_ 19,3. »
+
+Ce texte indique bien que le poids total mentionné à la fin est celui de toutes les substances réunies, qui sont déjà au nombre de 11. La somme, dans le texte **C**, se décompose ainsi : 10,3 + 6 + 3 = 19,3.
+
+Nous n'avons, jusqu'ici, qu'une masse odorante présentant la forme de poudre. Si, en effet, **AB** n'indique pas que les quatre nouvelles substances doivent être réduites en poudre, **C** l'indique bien clairement, d'abord par le mot [HIERO], s'appliquant spécialement à la dernière substance, ensuite par le mot [HIERO] désignant, avant le total général, l'aspect du corps odorant obtenu. Cette poudre va maintenant changer de consistance, grâce à l'intervention du vin, qui en formera une pâte et en augmentera nécessairement le poids.
+
+A\. [HIERO]
+
+B\. [HIERO]
+
+A\. [HIERO]
+
+B\. [HIERO]
+
+A\. [HIERO]
+
+B\. [HIERO]
+
+« Humecter de vin, 5 _hin_, pesant _ten_ 25. La quantité de vin restant liquide après saturation des substances* étant de la moitié, c'est-à-dire _ten_ 12,5, il ne se trouve employé que _ten_ 12,5 de vin, ce qui donne à la masse imprégnée un poids total de _ten_ 32,9. »
+
+*) Le sens général de cette partie de la phrase est bien évident. Quelques mots nouveaux, ou insuffisamment étudiés jusqu'ici, en rendent néanmoins la traduction littérale peu sûre. Voici celle que je proposerais, sous toute réserve : « La quantité [de vin] qui se perd (_aq_), étant qu'il ne fait point (_au bu ar-f_) entrer dans la masse (_χai_). » La variante [HIERO] de [HIERO] rend incertaine la transcription _bu ar-f_ ; d'autre part, le déterminatif [HIERO], du texte **C**, semble nous donner un autre mot que [HIERO], malgré l'orthographe [HIERO] du texte **A**.
+
+Ce poids de ten 32,9 est le résultat des _ten_ 12,5 de vin absorbés par les _ten_ 20,4 d'ingrédients aromatiques en poudre. On remarquera l'orthographe de basse époque, [HIERO], du chiffre 9.‎
+
+Le texte **C** donne les mêmes indications, en insistant davantage sur les rapports qui existent entre le volume en _hin_ et le poids en _ten_ du vin.
+
+C\. [HIERO]
+
+« On les humecte de vin, 5 _hin_. Chaque _hin_ pesant 5 _ten_, le tout pèse 25 _ten_. La quantité de vin non absorbée par la masse étant de _ten_ 12,5, --- la moitié seule du vin s'incorporant au kyphi, --- le poids total de la masse imbibée est de _ten_ 31,8 (19,3 + 12,5). On laisse reposer jusqu'au matin, afin que le mélange se tasse.* »
+
+*) Je rapproche ce mot nouveau de [HIERO] « poing, » [HIERO] « être étalé, aplati. »
+
+Les opérateurs emploient 25 _ten_ de vin dont une moitié est perdue et dont l'autre moitié seulement doit s'incorporer à la masse. Puisque toutes les manipulations tendent à un poids général déterminé d'avance, il semblerait plus simple de n'employer que les _ten_ 12,5 de vin qui doivent être absorbés par les substances sèches. Le procédé est naïf, mais on le retrouve, sous d'autres formes, dans presque toutes les recettes de parfumerie.
+
+# 5\.
+
+Le corps obtenu jusqu'ici, se composant d'une poudre mélangée à plus de la moitié de son poids en vin, présente la consistance d'une pâte. Cette nouvelle section introduit deux éléments nouveaux, l'un presque solide, l'autre liquide.
+
+A\. [HIERO]
+
+B\. [HIERO]
+
+A\. [HIERO]
+
+B\. [HIERO]
+
+A\. [HIERO]
+
+B\. [HIERO]
+
+A\. [HIERO]
+
+B\. [HIERO]
+
 ...
