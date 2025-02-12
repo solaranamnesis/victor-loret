@@ -346,12 +346,7 @@ Une nouvelle expression est rendue par trois synonymes, [HIERO], [HIERO] et [HIE
 
 *) Cf. [COPTIC], [ARABIC], _granum_ (_quod ignoratur_) (_Zeitschr._, 1886, p. 91), [COPTIC], _granulum_, _nucleus fructuum_ (A. Peyron, _Lex._, p. 71).
 
-Nous devons relever, en dernier lieu, une erreur 
-de gravure qui a fait mettre, dans le texte **B**, [HIERO] au 
-lieu de [HIERO], comme poids des déchets, et l'ortho- 
-graphe curieuse [HIERO], à la fin du texte **C**, dans la 
-quelle [HIERO] est l'indication du nombre ordinal, et [HIERO] 
-une forme inusitée de [HIERO].
+Nous devons relever, en dernier lieu, une erreur de gravure qui a fait mettre, dans le texte **B**, [HIERO] au lieu de [HIERO], comme poids des déchets, et l'orthographe curieuse [HIERO], à la fin du texte **C**, dans la quelle [HIERO] est l'indication du nombre ordinal, et [HIERO] une forme inusitée de [HIERO].
 
 # 6\.
 
@@ -381,12 +376,7 @@ B\. ...
 
 *) Litt. « à un tiers d'épaississement. » [HIERO], écrit [HIERO] dans le texte **C**, paraît dériver du radical [HIERO], [HIERO], lequel a comme sens premier celui de « resserrer, contracter. » De _contracter_ à _épaissir_ la nuance est presque insaisissable : une masse qui se contracte s'épaissit nécessairement, en ce sens qu'elle présente dans un espace donné un plus grand nombre de molécules. Du reste, le sens « épaissir » est prouvé par un certain nombre d'exemples. Dans un tombeau de Béni-Hassan (Ch., _Not. descr._, 2, 371), des personnages qui renforcent la plâte en y versant de la farine sont accompagnés de la légende [HIERO], [HIERO], « épaissir la pâte. » La phrase suivante précise encore mieux le sens : [HIERO] (Br. et Düm., _Rec._, 4, 97, 16), « Si tu trouves (cet onguent) trop mou, tu l'épaissis avec de l'encens ; si tu le trouves trop dur, tu l'éclaircis avec de l'essence de styrax. » Enfin, on trouve le même mot dans cette expression : [HIERO] (_Gr. Pap. Harris_, 1, 18, 6). [HIERO] (_Pap. médic. de Londres_, fragm. 2, p. 1, l. 3), où il désigne une résine épaisse, sèche, par opposition à la résine fraîche, [HIERO]. Un nouveau mot est donc à ajouter au dictionnaire : *saq**, déterminé par [HIERO], « épaissir (au feu, par évaporation). »
 
-Ces poids sont parfaitement justes ; en effet,
-46,6 2/3 - 9,3 1/3 = 37,3 1/3. Le texte **B** s'interrompt 
-brusquement par suite d'un bourdon ; [HIERO] 
-revient en effet dans la phrase suivante, et le graveur 
-a passé tout l'ensemble de signes compris entre ces 
-deux [HIERO]. 
+Ces poids sont parfaitement justes ; en effet, 46,6 2/3 - 9,3 1/3 = 37,3 1/3. Le texte **B** s'interrompt brusquement par suite d'un bourdon ; [HIERO] revient en effet dans la phrase suivante, et le graveur a passé tout l'ensemble de signes compris entre ces deux [HIERO]. 
 
 A\. [HIERO]
 
@@ -410,18 +400,37 @@ C\. [HIERO]
 
 « Résine fraîche, _ten_ 10. On la fait épaissir au feu de telle sorte qe la perte produite par l'évaporation soit de _ten_ 1,1 1/9, [soit 1/9 du poids total. Reste _ten_ 8,8 8/9]. »
 
-La fin de cette phrase est complètement fautive. 
-Il faut restituer, comme le prouvent le calcul des quan- 
-tités et la suite du texte, la formule suivante après
-
-[HIERO].
+La fin de cette phrase est complètement fautive. Il faut restituer, comme le prouvent le calcul des quantités et la suite du texte, la formule suivante après [HIERO].
 
 C\. [HIERO]
 
 « Miel, _hin_ 5. Chaque _hin_ pesant _ten_ 7.5, le poids total est de _ten_ 37,5. La quantité qui se perd à la cuisson étant de 1/6, soit _ten_ 6,2 1/2, il reste _ten_ 31,2 1/2. »
 
-Encore une erreur de chiffres à signaler. Les der- 
-niers signes, d'après le calcul, doivent se lire [HIERO]. 
+Encore une erreur de chiffres à signaler. Les derniers signes, d'après le calcul, doivent se lire [HIERO]. 
+
+C\. [HIERO]
+
+« Ajouter à ces deux substances le kyphi imbibé de vin, ce qui fait en tout _ten_ 100,7 13/18. La quantité de kyphi évaporée au feu étant de 1/10 du poids, soit _ten_ 10 13/18, il reste en tout _ten_ 90,7. Le laisser reposer jusqu'au lendemain matin. »
+
+La somme 100,7 13/18 est le résultat de kyphi 60,6 1/3 + résine 8,8 8/9 + miel 31,2 1/2. On doit remarquer l'expression fractionnaire [HIERO] qui, d'après les calculs, ne peut signifier que 12/18. Il faut peut-être y voir une transcription de l'hiératique [HIERO] qui signifie 1/4 + 1/2 c'est-à-dire 13,5/18. Dans ce cas il y aurait, dans les calculs de l'auteur, une erreur de 1,5/18. Ce même [HIERO] revenant dans l'expression _ten_ 10 13/18 est du reste encore une erreur de calcul. Le 1/10 de _ten_ 100,7 13/18 serait en effet 10 139/180 et non 10 13/18.
+
+# 7\.
+
+Le parfum obtenu pèse maintenant _ten_ 87,6 1/3 pour **A** **B**, et _ten_ 90,7 pour **C**. La recette s'achève en quelques mots par l'indication d'une certaine quantité de myrrhe à ajouter à la masse.
+
+A\. [HIERO]
+
+B\. [HIERO]
+
+A\. [HIERO]
+
+B\. [HIERO]
+
+« Myrrhe de troisième qualité, 13/90 du poids de la masse, soit _ten_ 12,7 ; ce qui porte au poids de _ten_ 100,3 1/3 la quantité du kyphi deux fois bon à l'usage du culte. »
+
+Comme on le voit, le résultat final des opérations dépasse légèrement la quantité de 100 _ten_ indiquée dans le titre. Du reste il y a encore ici une petite erreur de calcul ; les 13/90 de 87,6 1/3 ne sont 12,7 qu'à 2/45 près. Les mots _ar χet am-f_ manquent dans le texte **B**.
+
+La recette **C** est un peu plus étendue dans cette dernière partie ; elle fait mention d'un point important, à savoir qu'il faut broyer et tamiser la myrrhe.
 
 C\. [HIERO]
 
