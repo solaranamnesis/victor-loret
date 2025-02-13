@@ -434,4 +434,56 @@ La recette **C** est un peu plus étendue dans cette dernière partie ; elle fai
 
 C\. [HIERO]
 
+« Ajouter myrrhe, 10 _ten_. La perte résultant du broyage et du criblage étant de 1/20 de la quantité, soit _ten_ 0,5, il reste _ten_ 9,5 qui, ajoutés aux _ten_ 90,7 de parfum déjà obtenu, font, en tout, pour le kyphi, un poids de _ten_ 100,2. »
+
+Il y a dans ce texte une erreur manifeste. Au lieu de [HIERO], il faut lire [HIERO], chiffres d'autant plus certains qu'ils sont déjà indiqués dans la section précédente. Le kyphi **A** **B** dépasse cent _ten_ de 0,3 1/3 ; le kyphi **C** ne les dépasse, comme on le voit, que de 0,2.
+
+# 8\.
+
+Il me reste, pour compléter l'étude de la recette égyptienne du kyphi, à en déterminer la partie la plus spéciale et la plus intéressante, c'est-à-dire à identifier les différents ingrédients qui entrent dans la composition de ce parfum sacré. Je les étudierai tour à tour, selon l'ordre dans lequel ils se présentent au cours du texte hiéroglyphique.
+
+1\. [HIERO], [HIERO], [HIERO]. J'ai déjà étudié ce groupe par ailleurs* et je suis arrivé, à la suite de recherches qu'il serait superflu de reproduire ici, à montrer qu'il désigne le _Calamus aromaticus_ des anciens, soit notre _Acorus Calamus_ L. Cette plante est du reste rangée par les auteurs grecs, sous le nom de κάλαμος, au nombre des ingrédients du kyphi. Aux équivalents hébreux de [HIERO] que j'ai cités dans une précédente étude, j'ajouterai l'équivalent arabe [ARABIC], qui a le même sens _canna_, _calamus_.
+
+*) _Rec._, 1, 190, 4, 156.
+
+2\. [HIERO], [HIERO], [HIERO]. La seconde variante de ce mot, [HIERO], a été copiée de différentes manières. M. Brugsch lit [HIERO] comme second signe,* M. Dümichen lit [HIERO],* et Champollion [HIERO].* J'ai revu moi-même soigneusement le texte à Philé, et le signe y est bien clairement [HIERO] qui, se lisant _amen-t_, est en effet un synonyme de [HIERO]. Le mot doit donc se lire _shou-amen-t_ et signifier « roseau d'Occident. » [HIERO] me semble appartenir à toute une série de mots désignant des joncs ou des roseaux, tels que [HIERO], [HIERO], [HIERO], [HIERO], etc. Le synonyme indiqué par le texte **C**, [HIERO] autorise complètement cette manière de voir ; [HIERO], en effet, répond à [COPTIC], [COPTIC], θρύον, _juncus_, [HEBREW], _papyrus_. La phrase [HIERO]* met, d'autre part, le mot [HIERO] en parallélisme avec l'équivalent hiéroglyphique de [COPTIC] _calamus_, _juncus_. Enfin, la plante [HIERO] est mentionnée, sous la forme [HIERO], dans un texte de Dendérah, où elle a comme synonyme [HIERO] « jonc de Nigritie.* » De même que dans notre recette, elle y est rangée au nombre des plantes aromatiques, Il s'agit donc bien d'un jonc ou roseau aromatique.
+
+*) Br. et Düm., _Rec._, 2, 79, 2.
+
+*) _Ibid._, 4, 84.
+
+*) _Not. descript._, 1, 194.
+
+*) Pap. Anast., 2, 2, 3-4.
+
+*) V. Loret, _Les Fêtes d'Osiris au mois de Khoïak_, §§ 49, 98 [_Rec._, 4, 21, 5, 93].
+
+Il reste à savoir quel pouvait être ce jonc appartenant à la fois à l'Éthiopie et à l'Occident, c'est-à-dire à la Libye. Deux plantes seulement, parmi celles que l'on trouve dans les recettes grecques du kyphi peuvent être désignées sous le nom de jonc ou de roseau ; ce sont le κύπειρος et le σχοῖνος. Le κύπειρος est le _Cyperus rotundus_ L., et le σχοῖνος répond à l'_Andropogon Schœnanthus_ L.*
+
+*) C. Sprengel, _Dioscoride_, vol. 2, p. 344, 354.
+
+La flore éthiopienne antique est fort peu connue, --- on pourrait d'ailleurs presque en dire autant de la moderne ;--- on n'en citait que quelques espèces qui ne faisaient pas partie d'autres flores. Aussi, ne devons-nous pas être étonnés de voir que ni de _cyperus_ ni le _schœnus_ ne sont mentionnés dans les auteurs classiques comme croissant en Éthiopie. En revanche, Dioscoride nous apprend que le schœnus_ se rencontrait en Libye,* et Pline nous indique que le _cyperus_ le plus estimé venait de l'Oasis d'Ammon.* Les deux plantes se trouvent aujourd'hui au Cap de Bonne-Espérance et dans une grande partie de l'Afrique.*
+
+*) _De mat. med._, 1, 16.
+
+*) _Hist. nat._, 21 70.
+
+*) C. S. Kunth, _Enum. plant._, 1, 493, 2, 59.
+
+Aucun indice ne nous permettrait donc de savoir au juste à laquelle des deux il faut rapporter le [HIERO], si un fait d'un ordre spécial ne venait nous fixer à cet égard. Les Égyptiens nommant la plante en question _Roseau de Libye_ on _Jonc d'Éthiopie_, il est évident qu'elle ne croissait pas dans leur pays. Or, la flore ancienne de l'Égypte est connue. Le _cyperus_ se rencontrait sur les rives du Nil* et s'y rencontre encore.* Le _schœnus_ y était et y est encore inconnu. Nous n'avons donc pas à hésiter. Le [HIERO] ou [HIERO], étant une plante étrangère à l'Égypte, ne peut répondre qu'à l'_Andropogon Schœnanthus_ L., comme d'ailleurs je l'avais supposé il y a quelques années.* C'est une Graminée dont l'odeur, assez forte, est comparée à celle de la rose par les anciens,* à celle du citron par les modernes.*
+
+*) Pline, _loc. cit._
+
+*) A. R. Delile, _Flor. ægypt. illustr._, n° 37 ; P. Forskal, _Flor. ægypt._, n° 20.
+
+*) V. Loret, _loc. cit._
+
+3\. [HIERO]. Sur les quatre mots qui servent à dénommer cet ingrédient, un seul est déterminé par le signe [HIERO] ; d'où nous pouvons conclure, a priori, que le _sheb_ ou _fet_ n'est pas une plante. Le signe [HIERO] surtout, qui détermine ordinairement les noms de matières présentant une consistance pâteuse, nous engage à voir dans cet aromate autre chose qu'une herbe. Un radical [HIERO], conservé en copte sous la forme [COPTE], [COPTE], ἱδρὼς, _sudor_, et signifiant « suer, exsuder, » nous porte à considérer [HIERO] comme le nom d'une gomme ou d'une résine découlant d'un végétal. D'autre part, un second mot copte, [COPTIC], [COPTIC], _unguentum_, _thus_, peut représenter l'égyptien [HIERO],‎ et continuerait à nous donner l'idée d'une résine odorante.
+
+Le mot [HIERO], sans le déterminatif [HIERO], est mis, au papyrus Ebers, en rapport avec le figuier : [HIERO] (70, 4), [HIERO] (70, 17). Le déterminatif [HIERO] qu second exemple semble montrer qu'il s'agit d'une substance liquide. Or, on sait que le figuier laisse découler par incision une sève laiteuse, qui durcit à l'air, et que l'on trouve souvent mentionnée dans l'ancienne thérapeutique.* Enfin, le déterminatif [HIERO] lui-même, qui se place ordinairement après les mots exprimant l'idée « couper, trancher, » semble faire allusion à l'incision par laquelle on obtenait le [HIERO].
+
+*) Pline et Dioscoride, _loc. cit._
+
+*) Syn. _Cymbopogon citriodorus_ Link., _Andropogon citriodorum_ DC.
+
 ...
