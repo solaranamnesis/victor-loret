@@ -486,4 +486,92 @@ Le mot [HIERO], sans le déterminatif [HIERO], est mis, au papyrus Ebers, en rap
 
 *) Syn. _Cymbopogon citriodorus_ Link., _Andropogon citriodorum_ DC.
 
+*) Diosc., _De mat. med._, 1, 134 ; Pline, _Hist. nat._, 23, 63.
+
+Le mot _sheb_ est écrit [HIERO],* [HIERO],* [HIERO],* dans trois recettes de parfumerie. Là encore le déterminatif [HIERO] nous suggère l'idée d'un liquide. Il semble donc résulter nettement de ces diverses remarques que _sheb_ = _fet_ ne peut désigner qu'une gomme ou une résine aromatique découlant d'un arbre.
+
+*) Pap. Ebers, 98, 18.
+
+*) Br. et Düm., _Rec._, 4, 90.
+
+*) A. Mariette, _Dendérah_, 1, 47, a.
+
+Ce principe étant admis, il n'y a qu'un seul ingrédient, nommé dans les recettes grecques, auquel on puisse rapporter le _sheb_ = _fet_, c'est le σχῖνος ou lentisque, car les noms égyptiens des deux autres résines qui entraient dans le kyphi, --- myrrhe et térébenthine, --- sont connus par ailleurs et seront étudiés plus loin.
+
+Le Lentisque, _Pistacia Lentiscus_ L., est un arbre* d'où découle une résine analogue à l'encens et qui, au dire de Galien,* croissait autrefois en Égypte.
+
+*) Cf. l'orthographe [HIERO] (Br., _Dict hiérogl._, p. 1370).
+
+*) _De fac. simpl._, 7, p. 69.
+
+Voici, pour épuiser la question, les autres variantes que je connais de mot [HIERO] : [HIERO], [HIERO],* [HIERO], [HIERO], [HIERO].*
+
+*) V. Loret, _Les Fêtes d'Osiris_ (_Rec._, 4, 21, 5, 93).
+
+*) K. Piehl, _Dict. du Pap. Harris_, p. 12.
+
+4\. [HIERO], [HIERO], [HIERO]. --- J'ai étudié l'arbre _Qat_ il y a plusieurs années* ; c'est le _Laurus Cassia_ L., dont l'écorce est la cannelle. Le mot [HIERO], var. [HIERO],* qui désign cette écorce, doit se rapporter au copte [COPTIC], λέπισμα, _cortex_, _squama_.
+
+*) _Rec._, 4, 21, 7, 112.
+
+*) Br. et Düm., _Rec._, 4, 91, 2.
+
+5\. [HIERO], [HIERO], [HIERO]. Il existe un arbre [HIERO], au sujet duquel j'aurai à revenir dans un prochain mémoire, et qui paraît désigner le Styrax. Ici, les mots [HIERO] signifient seulement « bois odoriférant, » et non « bois de Styrax, » le déterminatif [HIERO] se rapportant, non pas au mot [HIERO], mais bien à l'expression tout entière [HIERO]. Le mot [HIERO] n'a pas laissé de traces en copte, ni dans les langues sémitiques.
+
+Un fait est à remarquer, c'est que, dans presque toutes les recettes de parfumerie, le _tas_ est toujours mentionné à côté du _qat_, de même que la Cannelle et le Cinnamome sont ordinairement nommés ensemble dans les textes grecs ou dans les passages de la Bible où il est fait mention d'aromates. Il est donc fort probable que le _tas_ est le Cinnamome, _Laurus Cinnamomum_ Andr., dont l'écorce était employée comme celle de la Cannelle. Cette identification est d'autant plus admissible que le Cinnamome fait partie des bois aromatiques mentionnés dans les recettes grecques du kyphi.
+
+Le _tas_ est représenté, dans le tombeau de _Reχmara_,* sous la forme d'un monceau de fragments rougeâtres analogues à ceux qui, dans la même tombe, servaient à représenter les racines de l'Acore. Un texte nous apprend que le _tas_ faisait partie des productions du pays de [HIERO].* Or, Diodore* et Strabon* désignent l'Arabie heureuse comme pays producteur du Cinnamome. Strabon nous apprend qu'il croissit aussi dans l'Éthiopie orientale, et Pline* rapporte qu'il ne poussait qu'en Éthiopie, mais que c'était seulement par l'intermédiaire des habitants de l'Arabie heureuse qu'on pouvait se le procurer.
+
+*) V. Loret, _Note complémentaire sur le kanna_ (_Rec._, 4, 156).
+
+*) Br. et Düm., _Rec._, 1, 50.
+
+*) _Bibl. hist._, 2, 49.
+
+*) _Géogr._, 16, pp. 418, 434.
+
+*) _Hist. nat._, 12, 42.
+
+Enfin, chose assez curieuse, le mot indien d'où dérive Cinnamome, _cacyn-nama_, signifie « bois odoriférant, » de même que [HIERO].*
+
+*) Marshall, dans _Annals of philosophy_, 1817, p. 255.
+
+6\. [HIERO], [HIERO], [HIERO]. Sur les deux noms qui désignent cette plante, le second se trouve au Grand Papyrus Harris, en compagnie du _Pistacia Lentiscus_ L. et du _Cyperus rotundus_ L., sous les orthographes [HIERO], [HIERO], [HIERO],* qui semblent montrer que ce mot n'est pas d'origine égyptienne. On le rencontre aussi, écrit [HIERO], [HIERO], dans le texte des Fêtes d'Osiris, à Dendérah.* M. J. Lauth a rapproché ce nom de _nacophton_ qui, d'après Apulée, est le nom égyptien du Romarin.*
+
+*) 16, 4 ; 53, 8 ; 64, 8 ; 71, 4.
+
+*) §§ 49, 98 (_Rec._, 4, 21 ; 5, 93).
+
+*) _Herbarium_, § 80. (Cette indication est de M. J. Lauth. J'avoue n'avoir trouvé ni le nom _nacophton_, ni même la mention du Romarin dans l'édition d'Apulée que je possède, Aldus, _Venet._, 1547.)
+
+L'autre nom est plus répandu. On le trouve au papyrus Ebers, écrit [HIERO] ; on extrayait de cette plante une huile ou essence nommée [HIERO].‎
+
+Enfin, toutes les listes d'offrandes, à partir de l'Ancien Empire, mentionnent cette plante sous deux espèces : [HIERO] et [HIERO]. La seconde expression est parfois remplacée par [HIERO]* ou [HIERO].*
+
+*) _Mission du Caire_, 2, 223.
+
+*) _Ib._, 2, 203.
+
+La première, qui seule peut nous aider à identifier la plante, est très souvent retournée sous cette forme [HIERO],* [HIERO].* Enfin, on rencontre une fois la préposition [HIERO] entre les deux mots : [HIERO].* Cette dernière forme me paraît identique au copte [COPTIC], [COPTIC], ἡδυοσμὸν, _mentha_.
+
+*) L. D. 2, 68 ; _Mission du Caire_, 2, 203.
+
+*) _Ib._, 2, 223 ; L. D., 2, 92.
+
+*) _Mission du Caire_, 2, 182.
+
+Je crois pouvoir en conclure que la plante dont il est question ici est la Menthe, _Mentha piperita_ L., plante dont on extrait une huile essentielle, comme on le faisait de la plante [HIERO]. Le Romarin et la Menthe sont du reste deux Labiées, et cela suffit pour nous expliquer le rapprochement entre _nakpat_ et _âgi_, en admettant toutefois que _nakpat_ soit l'original égyptien de _nacophton_. Que la Menthe ait été connue des Égyptiens, cela est rendu certain par ce fait que Dioscoride* nous en donne quatre noms égyptiens, et que les flores de l'Égypte moderne indiquent cette plante comme spontanée sur les rives du Nil.*
+
+*) _De mat. med._, 3, 36.
+
+*) A. R. Delile, _Floræ ægypt. illustr._, n° 536.
+
+7\. [HIERO], [HIERO], [HIERO]. Il est impossible d'identifier aucun de ces deux mots à l'aide du copte ou des langues sémitiques. Pour _djalem_, on trouve en copte, à part [COPTIC], [COPTIC],* un mot [COPTIC], [COPTIC], traduit en arabe par [ARABIC]. Kircher rend ce mot arabe par _Nasturtium_, qui est une espèce de cresson ; d'autre part, [ARABIC] est le nom du _Raphanus recurvus_ Pers., _R. lyratus_ Forsk. Ces plantes, qui n'ont d'ailleurs aucune qualité aromatique, poussent au bord de l'eau. Or, justement, le seul document égyptien qui, en dehors des recettes de parfumerie, fasse mention du _djalem_, nous apprend que « les pays bien arrosés ne produisent pas le parfum _djalem.* » Le _djalem_ ne peut donc être le [COPTIC], ou du moins le [COPTIC] tel que l'ouvrage de Kircher nons permet de nous le représenter. Quant à _djabâ_, je ne trouve dans les lexiques coptes aucun mot qui puisse en dériver.
+
+*) Mot à sens douteux, dans lequel Kircher voit une fois le _Persil_, une autre fois le _Carthame_.
+
+*) _Rec._, 4, 21.
+
+La plante dont il est question ici est fort souvent citée dans les recettes de parfumerie, surtout sous la forme _djabâ_. Ce ne peut donc être qu'une des plantes qui sont mentionnées à la fois dans les trois recettes grecques du kyphi. Or, en retranchant de ces plantes celles que nous avons déjà identifiées et celles que nous identifions plus loin, il ne reste qu'une seule espèce, revenant dans les trois textes, qui n'ait pas son équivalent égyptien ; c'est l'ἀσπάλαθος. Il est donc presque certain que le _djalem_ = _djabâ_ est l'aspalathe. Mais qu'est-ce au juste que l'aspalathe ? A ce sujet, il y a divergence d'avis entre les botanistes. Les uns y voient une Papilionacée, _Cytisus_, _Genista_ ou _Spartium_ ; d'autres y voient le _Convolvulus scoparius_ L. Je n'ai pas la compétence nécessaire pour discuter la question. Pourtant, une remarque est à faire : les diverses Papilionacées auxquelles on a rapporté l'aspalathe ont des fleurs jaunes, en grappes. Pline est le seul auteur qui nous apprenne que l'aspalathe se trouvait en Égypte, et voici en quels termes il le fait : « En Égypte vient l'aspalathos, à épines blanches, de la grandeur d'un arbre de taille médiocre, à fleurs de rosier.* » Peut-on comparer les grappes jaunes des Genêts à des fleurs de rosier ? ...
+
 ...
