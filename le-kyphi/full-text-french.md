@@ -590,4 +590,24 @@ Je crois pouvoir en conclure que la plante dont il est question ici est la Menth
 
 La plante dont il est question ici est fort souvent citée dans les recettes de parfumerie, surtout sous la forme _djabâ_. Ce ne peut donc être qu'une des plantes qui sont mentionnées à la fois dans les trois recettes grecques du kyphi. Or, en retranchant de ces plantes celles que nous avons déjà identifiées et celles que nous identifions plus loin, il ne reste qu'une seule espèce, revenant dans les trois textes, qui n'ait pas son équivalent égyptien ; c'est l'ἀσπάλαθος. Il est donc presque certain que le _djalem_ = _djabâ_ est l'aspalathe. Mais qu'est-ce au juste que l'aspalathe ? A ce sujet, il y a divergence d'avis entre les botanistes. Les uns y voient une Papilionacée, _Cytisus_, _Genista_ ou _Spartium_ ; d'autres y voient le _Convolvulus scoparius_ L. Je n'ai pas la compétence nécessaire pour discuter la question. Pourtant, une remarque est à faire : les diverses Papilionacées auxquelles on a rapporté l'aspalathe ont des fleurs jaunes, en grappes. Pline est le seul auteur qui nous apprenne que l'aspalathe se trouvait en Égypte, et voici en quels termes il le fait : « En Égypte vient l'aspalathos, à épines blanches, de la grandeur d'un arbre de taille médiocre, à fleurs de rosier.* » Peut-on comparer les grappes jaunes des Genêts à des fleurs de rosier ? ...
 
+*) _Hist. nat._, 12, 52.
+
+Je crois donc que l'aspalathe, ou du moins l'aspalathe égyptien de Pline, est bien le _Convolvulus scoparius_ L., dont le bois, fort employé en parfumerie, est connu dans le commerce sous le nom de _Bois de Rhodes_ ou _Bois de roses_. L'Égypte renferme encore aujourd'hui un certain nombre de ces _Convolvulus_ ligneux et non volubiles auxquels appartient le _Convolvulus scoparius_.* Tous poussent dans les rochers et les endroits pierreux ou sablonneux, ce qui concorde avec la phrase égyptienne citée plus haut au sujet du parfum _djalem_.
+
+*) A. R. Delile, _Flor. ægypt. illustr._, n°s 222-231.
+
+On trouvera réunies, dans le supplément du _Dictionnaire hiéroglyphique_ de M. H. Brugsch, p. 1291, les variantes orthographiques des deux noms égyptiens du _Bois de roses_.
+
+8\. [HIERO], [HIERO], [HIERO]. Il y a un an, j'étudiais le groupe [HIERO] et, le rapprochant du copte [COPTIC], κόριον, _coriandrum_, j'y voyais le nom égyptien de la Coriandre.* Les arguments présentés me paraissaient d'une certaine importance ; seul, le papyrus Ebers était en désaccord avec l'identification proposée, attendu qu'aucune des propriétés médicinales qu'il attribue au [HIERO] ne correspond à celles que les auteurs gréco-latins reconnaissent à la Coriandre.
+
+*) _Rec._, 7, 111-113.
+
+Aujourd'hui, l'équation [HIERO] vient détruire complètement mon assimilation de l'an dernier. _Pershou_ est le nom spécial des graines de l'_ouân_. Or, l'_ouân_ est un arbre. Nous ne pouvons donc plus songer à la Coriandre, et il nous faut chercher ailleurs l'équivalent du _pershou_.
+
+Le problème, posé dans sa nouvelle forme, consiste à rechercher ce qu'est l'arbre _ouân_. Les deux phrases suivantes nous indiquent que le [HIERO] produit de la poix, [COPTIC], [COPTIC], [ARABIC], _cedrium_, _pix cedri_ (hebr. [HEBREW], chald. [HEBREW], ar. [ARABIC], _pix_) : [HIERO] « elle vient à toi, la poix produite par l'_ouân_* ; » [HIERO]‎ « de la poix d'_ouân_.* » Poix et Cèdre nous font de suite penser à un Conifère.
+
+*) G. Maspero, _Mém. sur quelques pap. du Louvre_, p. 21, n. 6.
+
+*) _Ib._, p. 32, n. 3.
+
 ...
