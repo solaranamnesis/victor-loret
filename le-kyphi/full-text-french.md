@@ -26,6 +26,8 @@
 
 8\. [8](#8)
 
+9\. [9](#9)
+
 ---
 
 # 1\.
@@ -610,4 +612,152 @@ Le problème, posé dans sa nouvelle forme, consiste à rechercher ce qu'est l'a
 
 *) _Ib._, p. 32, n. 3.
 
-...
+Le nom de l'_ouân_ est écrit, dans les textes, de diverses manières. Au lieu de [HIERO], on trouve souvent [HIERO].* Parfois le [HIERO] se change en [HIERO], et l'on a [HIERO].* Le [HIERO] peut même tomber et fournir la forme [HIERO].* Si l'on recherche dans les langues voisines de l'égyptien des formes analogues à _ouâr_, _âr_, on a [COPTIC], _cypressus_, [HEBREW], _terebinthus_, [ARABIC], _juniperus_, mots dont deux désignent des Conifères et le troisième un arbre résineux. Enfin, l'hébreu [HEBREW], qui rend presque lettre pour lettre l'égyptien [HIERO], est également le nom d'un Conifère, le Cyprès.
+
+*) _Pap. méd. de Berlin_, 10, 8 ; 12, 7 ; 14, 10, etc.
+
+*) _Ib._, 3, 9 ; 11, 8 ; 12, 7 ; 13, 8, 9 ; 14, 1, etc.
+
+*) _Ib._, 10, 10 ; [HIERO], [HIERO], Pap. Ebers, _passim._
+
+Je crois donc pouvoir rapporter l'arbre [HIERO] au Genévrier, _Juniperus phœnicea_ L., qui est un Conifère. Par suite, les [HIERO], ou « Baies d'_ouân_, » seront le genièvre, qui se trouve mentionné dans les trois recettes grecques du kyphi.
+
+Des fruits du Genévrier phénicien ont été découverts dans bien des tombes égyptiennes, et il s'en trouve dans presque tous les musées d'Europe. C. S. Kunth a étudié de près quelques-uns de ces fruits très bien conservés et les attribue d'une manière formelle au _J. phœnicea_.* Des cercueils égyptiens sont construits en bois de Genévrier.* On pourrait presque conclure de ces faits que le Genévrier était cultivé en Égypte, d'autant plus que, dans une phrase à allitérations, le nom [HIERO] se trouve auprès de deux arbres égyptiens, le [HIERO] et le [HIERO].*
+
+*) _Cat. Passal._, p. 228, n° 465.
+
+*) F. Unger, _Die Pflanzen des alten Ägyptens_ (Akad. der Wiss. zu Wien, Sitzungsberichte der Math.-Naturwiss. Classe, 1860, p. 109).
+
+*) P. Pierret, _Et. égyptol._, 1, 46.
+
+En dernier lieu, tandis que les propriétés médicinales du [HIERO] ne concordaient nullement avec celles de la Coriandre, celles des baies d'_ouân_ concordent au contraire parfaitement avec les propriétés attribuées par Dioscoride et Pline aux baies de genièvre. On ne les trouve recommandées, dans les traités de médecine égyptiens, que pour les gonflements ou tumeurs au ventre, à la tête, aux jambes, etc. Or, c'est surtout pour les gonflements en général que les médecins classiques recommandent l'emploi des baies de genièvre.* Je crois donc être arrivé aujourd'hui à la véritable et définitive identification du [HIERO].
+
+*) Diosc., 1, 103 ; Pline, 24, 36.
+
+9\. [HIERO], [HIERO], [HIERO]. On sait, grâce à un document publié par M. H. Brugsch,* que le [HIERO] est une espèce de [HIERO], soit d'Acacia. L'Acacia d'Égypte, --- qu'il ne faut pas confondre avec l'Acacia ou Robinier de nos pays (_Robinia pseudo-acacia_ L.), --- est un _Mimosa_. Depuis quelques années, les fleurs de Mimosa sont à la mode ; on en expédie journellement des trains entiers des bords de la Méditerranée.
+
+*) _Zeitschr._, 1875, p. 123.
+
+Tout le monde connaît maintenant ces grappes d'odorantes fleurs jaunes qui semblent de légères masses de soie. Il est à peine besoin de faire remarquer combien la dénomination égyptienne [HIERO] « Graines chevelues, » dépeint d'une manière exacte et pittoresque la fleur du Mimosa.
+
+Le Mimosa odorant, dont les fleurs sont connues dans le Midi sous le nom de Cassie, est un arbrisseau très commun en Égypte, aussi bien dans l'antiquité que de nos jours, l'_Acacia Farnesiana_ Willd. Il est souvent figuré dans les tombes, et je me souviens d'une planche de Champollion, dont malheureusement je n'ai pas conservé le numéro, où des oiseaux sont représentés en couleurs, au milieu de fleurs de Cassie dont le velouté et la légèreté ont été admirablement rendus par l'artiste égyptien. Il ne peut donc y avoir aucun doute au sujet de la plante ici désignée ; c'est bien l'_Acacia Farnesiana_.
+
+Cette identification me forcera de changer celle que J'avais autrefois proposée pour l'Acacia [HIERO].* Mais, depuis cette époque, jai retrouvé les noms de deux nouvelles espèces d'Acacias égyptiens, --- on sait qu'il en existe une vingtaine en Égypte, --- et je compte publier prochainement, sur les Mimosées pharaoniques, un travail d'ensemble qui remettra chaque chose en sa place.
+
+*) _Rec._, 2, 60-65.
+
+Il serait intéressant de savoir si la dénomination [HIERO] est aussi pittoresque que [HIERO]. Malheureusement, cette expression se compose de deux mots dont je n'ai pas encore réuni assez d'exemples pour pouvoir les étudier à fond.
+
+10\. [HIERO], [HIERO]. --- Le mot _peqer_ se retrouve, en dehors de notre texte, dans les _Fêtes d'Osiris_, écrit [HIERO] et [HIERO],* et dans une recette de parfumerie d'Edfou.* Je l'avais, sans grande conviction, rapproché de mots coptes et hébreux signifiant, l'un _Sésame_ et l'autre _Coloquinte_.* Il est évident qu'il ne peut être ici question d'aucune de ces deux plantes qui n'ont rien d'aromatique. En admettant une métathèse entre les deux premières radicales, [HIERO] pour [HIERO], on aurait le nom d'une plante très commune en Égypte et dont le nom n'existe pas dans les textes égyptiens. Cette métathèse est d'autant plus admissible qu'on en possède des exemples dans d'autres mots, plus communs, formés avec des lettres de la même famille : [HIERO] à côté de [HIERO], [HIERO] à côté de [HIERO].
+
+*) §§ 41 et 98.
+
+*) Br. et Düm., _Rec._, 4, 80.
+
+*) _Rec._, 4, p. 21, n. 6.
+
+Le radical [HIERO] serait conservé dans [COPTIC], [HEBREW], κύπρος, = [ARABIC] le _henné_. Les habitants du sud de l'Égypte appellent encore de nos jours, au dire de Delile,* cette plante du nom de [ARABIC], et les Arabes la nomment d'un autre nom, [ARABIC] et [ARABIC], ce qui pourrait être une transcription de [HIERO] avec chute du [HIERO].
+
+*) _Flor. ægypt. illustr._, n° 401.
+
+Le Henné ou Troëne, κύπρος, _Lawsonia inermis_ L., est mentionné par tous les auteurs anciens comme l'une des principales plantes aromatiques de l'Égypte et, en fait, ils le font entrer dans presque toutes les recettes de parfums égyptiens dont le plus répandu, selon eux, était justement le _Cyprinum_.* Les fleurs du Henné, dont je possède de l'essence venue de Tunis, ont une odeur très fine, comparable à celle de la rose.
+
+*) Diosc., _De mat. med._, 1., 65, 124 ; Théophr., _De Odoribus_, 25, 26, 31, 42, 50, 55 ; Pline, _Hist. nat._, 16., 60, 23., 45, 24., 10 ; Athénée, _Deipnos._, 15., 38, etc.
+
+11\. [HIERO], [HIERO], [HIERO]. Le mot [COPTIC] est rendu, dans une _scala_ copte,* par [ARABIC], κυπερης, κυπερων, κεβον. La plante en question ne peut donc être que le _cyperus_, mentionné d'ailleurs dans les trois textes grecs de la recette du kyphi, et cela d'autant plus certainement que, de même que le _kaiou_ vient d'une oasis, [HIERO], le _cyperus_ le plus estimé pour la parfumerie croissait dans l'Oasis d'Ammon.* La plante _kaiou_, dont je ferai prochainement l'objet d'une étude spéciale, revient dans un grand nombre de textes égyptiens et sert à la fois à désigner le Cyperus aromatique, _Cyperus longus_ L., et le Cyperus comestible, _Cyperus esculentus_ L.
+
+*) A. Peyron, _Lexicon ling. coptic._, p. 60.
+
+*) _Grande Encyclopédie_, art. Ammon (Oasis d'), t. 2, p. 770.
+
+Quant au mot [HIERO], dont [HIERO] ne peut être ici qu'une orthographe fautive sans [HIERO], il paraît désigner spécialement la partie odorante du Cyperus, c'est-à-dire le rhizome. En effet, [COPTIC] désigne, dans les textes coptes,* un aliment « humide » ([COPTIC]) le rhizome du _Cyperus esculentus_, qui croît près de l'eau, et dont les Égyptiens se nourrissaient.* Là encore il y a confusion entre les deux Cyperus, le mot égyptien s'appliquant au rhizome du Cyperus odorant, et le mot copte à celui du Cyperus comestible. [HIERO] revient dans d'autres recettes de parfums, orthographié [HIERO] et [HIERO].* En résumé _shbin_ et _kaiou_ répondent ici au _Cyperus longus_ L.
+
+*) G. Zoega, _Catal. codic. coptic._, p. 34, 131. [COPTIC] est traduit en arabe par [ARABIC], de même que le nom moderne du Cyperus comestible est [ARABIC].
+
+*) Théophr., _Hist. plant._, 4, 8, 12.
+
+*) Br. et Düm., _Rec._, 4, 91.
+
+12\. [HIERO], [HIERO], [HIERO]. L'ingrédient nommé ici est certainement le raisin sec, σταφίς, qui se retrouve dans les trois recettes grecques. Le seul terme nouveau est [HIERO], [HIERO], [HIERO], auquel la recette C donne [HIERO], « raisin, » comme synonyme. Ce mot, dérivé de la racine [HIERO], paraît désigner en général tout fruit sêché au soleil ; d'où des expressions comme [HIERO],* [HIERO],* littéralement « fruits secs de raisins, » σταφίδες ἀμπέλου.
+
+*) _Pap. Ebers_, 35, 22.
+
+*) _Gr. pap. Harris_, 39, 4.
+
+13-16\. [HIERO], [HIERO], [HIERO] ; [HIERO], [HIERO] ; [HIERO], [HIERO] ; [HIERO], [HIERO], [HIERO]. Aucun de ces mots, grâce aux synonymes, ne présente de difficulté. _Khar_ est le nom bien connu de la myrrhe. Les expressions‎ _Œil d'Horus vert_ et _Œil d'Horus doux_ sont les dénominations mystiques du vin et du miel, [HIERO] et [HIERO]. Seul, le terme [HIERO] a besoin d'explication.
+
+A priori, ce mot ne paraît pouvoir répondre qu'au grec ῥητίνη « résine, » qui revient dans les trois listes grecques et dont nous n'avons pas l'équivalent dans les autres mots égyptiens. Le mot [HIERO], qu'on lit tantôt _ba_, tantôt _ânti_, se trouve écrit mille fois au-dessus de personnages tenant un encensoir allumé et y jetant des grains désignés par ce mot. Ce n'est pas d'encens qu'il s'agit, puisque le mot encens, [HIERO], est connu par ailleurs et se trouve précisément, dans bien des textes, en parallélisme avec le mot [HIERO] lui-même.* D'ailleurs, --- quoique en somme ce ne soit là qu'un argument de valeur secondaire, --- l'encens n'est pas mentionné dans les recettes grecques. [HIERO] ne peut non plus désigner la myrrhe, qui est nommée [HIERO]. Ce ne peut donc être que la résine.
+
+*) _Les fêtes d'Osiris_, passim.
+
+Un mot égyptien, d'un emploi très fréquent, [HIERO], _sonter_, [COPTIC], ῥητίνη, _resina_, sert à désigner la résine. Or, il résulte de différents textes que non seulement [HIERO] est synonyme de [HIERO], mais encore que le signe [HIERO], dans ce mot, doit se prononcer [HIERO], comme [HIERO] ou [HIERO] se lisent _ânti_. En effet, à côté de [HIERO] cité plus haut au sujet du mot _saq_, on rencontre des orthographes [HIERO],* [HIERO].* Enfin, et c'est là une preuve décisive, on trouve [HIERO], dans les listes d'offrandes, mis à la place du mot _sonter_. Un texte d'Edfou décrit soigneusement trois espèces d'ingrédients désignés sous le nom de [HIERO] ou [HIERO] « les cinq grains.* » L'un est « les cinq grains méridionaux de Nekheb, » [HIERO] ; l'autre, « les cinq grains septentrionaux de Sherp, » [HIERO] ; le troisième, « les cinq grains de résine, » [HIERO]. Ce texte étant en quelque sorte une description technique des ingrédients, il est certain que le mot [HIERO] y est employé dans son sens le plus précis. Si nous recherchons d'autre part la mention de ces trois ingrédients dans les nombreuses tables d'offrandes que nous connaissons, nous trouvons partout le mot _sonter_ écrit à la place de [HIERO]. En voici, entre cent, trois exemples décisifs : [HIERO], [HIERO]* ; [HIERO], [HIERO], [HIERO]* ; [HIERO], [HIERO], [HIERO], [HIERO].* Conclusion : le mot [HIERO], synonyme orthographique de [HIERO], désigne la résine, ῥητίνη, et plus spécialement la résine du Térébinthe, _Pistacia Terebinthus_ L., ῥητίνη sans épithète étant l'équivalent de τερμινθίνη.
+
+*) Br. et Düm., _Rec._, 4, 96.
+
+*) _Ib._, 4, 85, B.
+
+*) _Ib._, 4, 85, A.
+
+*) Table d'offrandes exposée sur le palier du Louvre.
+
+*) _Misson du Caire_, 2, 144.
+
+*) _Ib._, 2, 173.
+
+# 9\.
+
+Si nous comparons maintenant le kyphi égyptien au κῦφι grec, nous obtenons le resultat suivant : sur seize aromates, dix reviennent dans toutes les recettes, grecques et égyptiennes, et ce sont justement les dix de Dioscoride ; trois autres, la Cannelle, le Cinnamome et le Lentisque, qui ne sont mentionnés que dans une seule recette grecque, sont cités dans les recettes égyptiennes ; enfin, trois ingrédients ne se rencontrent que dans le texte égyptien, le Menthe, le Henné et le Mimosa.
+
+Voici, comme résumé de cette étude, une traduction simplifiée de la recette égyptienne, avec réduction des poids égyptiens en poids francais, à l'usage de ceux qui auraient la curiosité de faire exécuter le kyphi dans un laboratoire de parfumerie. J'ai eu moi-même, tout le premier, cette curiosité scientifique et je dois témoigner ici à notre éminent et regretté compatriote, M. Eugène Rimmel, auteur d'une très érudite _Histoire de la parfumerie_,* toute ma reconnaissance pour la bienveillance avec laquelle il s'est prêté à mes essais de résurrection d'un antique parfum égyptien.
+
+*) _Le Livre des parfums_, gr. in-8°, Paris, Le Dentu, 1884.
+
+**Recette pour faire 10,164 gr. de kyphi deux fois bon, à l'usage du culte.**
+
+1\.
+
+_Acorus Calamus_ L. --- 270 gr.  
+_Andropogon Schœnanthus_ L. --- 270 gr.  
+_Pistacia Lentiscus_ L. --- 270 gr.  
+_Laurus Cassia_ L. --- 270 gr.  
+_L. Cinnamomum_ Andr. --- 270 gr.  
+_Mentha piperita_ L. --- 270 gr.  
+_Convolvulus scoparius_ L. --- 270 gr.  
+1,870 gr.
+
+Piler très fin, passer au crible. N'employer que les 2/5 de la masse, soit la partie la plus odorante et la mieux pulvérisée. --- 756 gr.
+
+2\.
+
+_Juniperus phœnicea_ L. --- 270 gr.  
+_Acasia Farnesiana_ L. --- 270 gr.  
+_Lawsonia inermis_ L. --- 270 gr.  
+_Cyperus longus_ --- 270 gr.  
+1,080 gr.
+
+Broyer ces quatre substances et les mouiller de vin. --- 1,125 gr.
+
+Laisser reposer un jour.
+
+3\.
+
+_Chair de raisins secs, bien pure_ --- 1,260 gr.  
+_Vin d'Oasis_ --- 1,440 gr.
+
+Mélanger aux onze ingrédients ci-dessus et laisser reposer cinq jours.
+
+4\.
+
+_Résine de térébinthe_ --- 1,200 gr.  
+_Miel_ --- 3,000 gr.  
+4,200 gr.
+
+Mélanger ces deux substances et les cuire jusqu'à réduction de 1/5 du poids, de sorte qu'il reste. --- 3,360 gr.
+
+Mélanger au reste des aromates et laisser reposer cinq jours.
+
+5\.
+
+_Myrrhe broyée finement_ --- 1,143 gr.
+
+Mélanger au reste de la masse, ce qui donne, en kyphi. --- 10,164 gr.
