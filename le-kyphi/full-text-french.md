@@ -260,7 +260,7 @@ Pourtant, en étudiant le mot au point de vue philologique, nous sommes tentés 
 
 Un mot copte, ⲗⲟⲓϩⲉ, ⲗⲱⲓϩⲓ, ⲡⲉ, βόρβορος, ἰλὺς, _lutum_, _limus_, servirait à expliquer notre groupe. [HIERO] serait le « résidu bourbeux » du broyage et du criblage, le suc rendu épais par les déchets restés sur le tamis. Ce serait, non la sève pure et limpide, mais la masse humide formée d'une certaine quantité de suc mêlée à la partie grossière des aromates.* [HIERO] est la masse pulvérulente principale, triée, essentielle ; [HIERO] est tout ce qui n'entre pas dans cette masse. Ce sens, plus général que celui de suc, convient d'autant mieux ici que, d'une part, il me paraît impossible d'extraire d'une certaine quantité d'aromates, dont quelques-uns sont ligneux, les 2/3 et même les 3/5 de suc pur, et que, d'autre part, ce suc lui-même constitue souvent la partie la plus odorante d'une plante et ne peut être, par conséquent, rejeté de parti pris.
 
-*) Cf., d'une part, לׇחַח, _humectavit_, לַח, _humidus_, et, d'autre part, [ARABIC], « enlever l'écorce. »
+*) Cf., d'une part, לׇחַח, _humectavit_, לַח, _humidus_, et, d'autre part, حٰى, « enlever l'écorce. »
 
 En résumé, nous traduirons la dernière partie de cette section par : « Enlever de la masse totale, en résidu bourbeux, ses 3/5 ; mettre à part la poudre essentielle qui reste, et qui forme ses 2/5. » Nous verrons plus loin que la poudre essentielle était seule employée dans la confection du kyphi. Cette masse pulvérulente légèrement imprégnée de suc, qui à elle seule constitue jusqu'ici le corps odorant mis en œuvre, s'élève, pour les textes **A** **B**, au poids de _ten_ 8,4 et, pour le texte **C**, à celui de _ten_ 10,3.
 
@@ -362,7 +362,7 @@ Le groupe [HIERO] **A**, var. [HIERO] **C**, doit se lire _χnoum our-t_. Le dé
 
 Une nouvelle expression est rendue par trois synonymes, [HIERO], [HIERO] et [HIERO]. Ces mots servent à désigner la partie des raisins secs qu'on ne peut utiliser et que l'on doit jeter ; d'où le sens général « déchets » que je leur ai donné. Les recettes de Dioscoride et de Galien disent qu'avant d'employer les raisins secs, on doit les débarrasser de leurs pépins et de leur peau. [HIERO] peut se rapprocher du copte ϣⲁⲣ, δορὰ, δέῤῥις, δέρμα, _pellis_, _corium_, et désigner la « peau » du raisin. Je sais que ϣⲁⲣ a déjà un équivalent en hiéroglyphes sous la forme [HIERO], mais ce mot désigne spécialement le « cuir, » la peau d'un animal. [HIERO], déterminé par les trois grains, serait une forme du même mot et désignerait spécialement la « peau » des fruits. [HIERO], dans ce cas,* ne pourrait signifier que « graines, pépins. » Enfin, [HIERO], dérivé du radical [HIERO], « débarrasser, délivrer, » désignerait « la partie dont on doit se _débarrasser_, » c'est-à-dire à la fois les pépins et la peau.
 
-*) Cf. ⲕⲓⲥⲉ ⲛ̄ ⲕⲓⲙ, [ARABIC], _granum_ (_quod ignoratur_) (_Zeitschr._, 1886, p. 91), ⲕⲁⲥ, _granulum_, _nucleus fructuum_ (A. Peyron, _Lex._, p. 71).
+*) Cf. ⲕⲓⲥⲉ ⲛ̄ ⲕⲓⲙ, لكبّة التى لا تعرف, _granum_ (_quod ignoratur_) (_Zeitschr._, 1886, p. 91), ⲕⲁⲥ, _granulum_, _nucleus fructuum_ (A. Peyron, _Lex._, p. 71).
 
 Nous devons relever, en dernier lieu, une erreur de gravure qui a fait mettre, dans le texte **B**, [HIERO] au lieu de [HIERO], comme poids des déchets, et l'orthographe curieuse [HIERO], à la fin du texte **C**, dans la quelle [HIERO] est l'indication du nombre ordinal, et [HIERO] une forme inusitée de [HIERO].
 
@@ -460,7 +460,7 @@ Il y a dans ce texte une erreur manifeste. Au lieu de [HIERO], il faut lire [HIE
 
 Il me reste, pour compléter l'étude de la recette égyptienne du kyphi, à en déterminer la partie la plus spéciale et la plus intéressante, c'est-à-dire à identifier les différents ingrédients qui entrent dans la composition de ce parfum sacré. Je les étudierai tour à tour, selon l'ordre dans lequel ils se présentent au cours du texte hiéroglyphique.
 
-1\. [HIERO], [HIERO], [HIERO]. J'ai déjà étudié ce groupe par ailleurs* et je suis arrivé, à la suite de recherches qu'il serait superflu de reproduire ici, à montrer qu'il désigne le _Calamus aromaticus_ des anciens, soit notre _Acorus Calamus_ L. Cette plante est du reste rangée par les auteurs grecs, sous le nom de κάλαμος, au nombre des ingrédients du kyphi. Aux équivalents hébreux de [HIERO] que j'ai cités dans une précédente étude, j'ajouterai l'équivalent arabe [ARABIC], qui a le même sens _canna_, _calamus_.
+1\. [HIERO], [HIERO], [HIERO]. J'ai déjà étudié ce groupe par ailleurs* et je suis arrivé, à la suite de recherches qu'il serait superflu de reproduire ici, à montrer qu'il désigne le _Calamus aromaticus_ des anciens, soit notre _Acorus Calamus_ L. Cette plante est du reste rangée par les auteurs grecs, sous le nom de κάλαμος, au nombre des ingrédients du kyphi. Aux équivalents hébreux de [HIERO] que j'ai cités dans une précédente étude, j'ajouterai l'équivalent arabe قناة, qui a le même sens _canna_, _calamus_.
 
 *) _Rec._, 1, 190, 4, 156.
 
