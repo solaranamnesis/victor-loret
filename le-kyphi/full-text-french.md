@@ -656,7 +656,7 @@ Il serait intéressant de savoir si la dénomination [HIERO] est aussi pittoresq
 
 *) _Rec._, 4, p. 21, n. 6.
 
-Le radical [HIERO] serait conservé dans ⲭⲟⲩⲡⲉⲣ, כּפֶר, κύπρος, = [ARABIC] le _henné_. Les habitants du sud de l'Égypte appellent encore de nos jours, au dire de Delile,* cette plante du nom de [ARABIC], et les Arabes la nomment d'un autre nom, [ARABIC] et [ARABIC], ce qui pourrait être une transcription de [HIERO] avec chute du [HIERO].
+Le radical [HIERO] serait conservé dans ⲭⲟⲩⲡⲉⲣ, כּפֶר, κύπρος, = ثجرة لحٰنّا le _henné_. Les habitants du sud de l'Égypte appellent encore de nos jours, au dire de Delile,* cette plante du nom de كفرة, et les Arabes la nomment d'un autre nom, فغو et فاغية, ce qui pourrait être une transcription de [HIERO] avec chute du [HIERO].
 
 *) _Flor. ægypt. illustr._, n° 401.
 
@@ -664,7 +664,7 @@ Le Henné ou Troëne, κύπρος, _Lawsonia inermis_ L., est mentionné par to
 
 *) Diosc., _De mat. med._, 1., 65, 124 ; Théophr., _De Odoribus_, 25, 26, 31, 42, 50, 55 ; Pline, _Hist. nat._, 16., 60, 23., 45, 24., 10 ; Athénée, _Deipnos._, 15., 38, etc.
 
-11\. [HIERO], [HIERO], [HIERO]. Le mot ⲕⲓⲱⲟⲩ est rendu, dans une _scala_ copte,* par [ARABIC], κυπερης, κυπερων, κεβον. La plante en question ne peut donc être que le _cyperus_, mentionné d'ailleurs dans les trois textes grecs de la recette du kyphi, et cela d'autant plus certainement que, de même que le _kaiou_ vient d'une oasis, [HIERO], le _cyperus_ le plus estimé pour la parfumerie croissait dans l'Oasis d'Ammon.* La plante _kaiou_, dont je ferai prochainement l'objet d'une étude spéciale, revient dans un grand nombre de textes égyptiens et sert à la fois à désigner le Cyperus aromatique, _Cyperus longus_ L., et le Cyperus comestible, _Cyperus esculentus_ L.
+11\. [HIERO], [HIERO], [HIERO]. Le mot ⲕⲓⲱⲟⲩ est rendu, dans une _scala_ copte,* par دسم, κυπερης, κυπερων, κεβον. La plante en question ne peut donc être que le _cyperus_, mentionné d'ailleurs dans les trois textes grecs de la recette du kyphi, et cela d'autant plus certainement que, de même que le _kaiou_ vient d'une oasis, [HIERO], le _cyperus_ le plus estimé pour la parfumerie croissait dans l'Oasis d'Ammon.* La plante _kaiou_, dont je ferai prochainement l'objet d'une étude spéciale, revient dans un grand nombre de textes égyptiens et sert à la fois à désigner le Cyperus aromatique, _Cyperus longus_ L., et le Cyperus comestible, _Cyperus esculentus_ L.
 
 *) A. Peyron, _Lexicon ling. coptic._, p. 60.
 
@@ -672,7 +672,7 @@ Le Henné ou Troëne, κύπρος, _Lawsonia inermis_ L., est mentionné par to
 
 Quant au mot [HIERO], dont [HIERO] ne peut être ici qu'une orthographe fautive sans [HIERO], il paraît désigner spécialement la partie odorante du Cyperus, c'est-à-dire le rhizome. En effet, ϣⲃⲓⲛ désigne, dans les textes coptes,* un aliment « humide » (ⲉⲧϩⲟⲣⲡ) le rhizome du _Cyperus esculentus_, qui croît près de l'eau, et dont les Égyptiens se nourrissaient.* Là encore il y a confusion entre les deux Cyperus, le mot égyptien s'appliquant au rhizome du Cyperus odorant, et le mot copte à celui du Cyperus comestible. [HIERO] revient dans d'autres recettes de parfums, orthographié [HIERO] et [HIERO].* En résumé _shbin_ et _kaiou_ répondent ici au _Cyperus longus_ L.
 
-*) G. Zoega, _Catal. codic. coptic._, p. 34, 131. ϣⲃⲓⲛ est traduit en arabe par [ARABIC], de même que le nom moderne du Cyperus comestible est [ARABIC].
+*) G. Zoega, _Catal. codic. coptic._, p. 34, 131. ϣⲃⲓⲛ est traduit en arabe par حبّ, de même que le nom moderne du Cyperus comestible est حب العزيز.
 
 *) Théophr., _Hist. plant._, 4, 8, 12.
 
