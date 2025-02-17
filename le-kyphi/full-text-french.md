@@ -584,7 +584,7 @@ Je crois pouvoir en conclure que la plante dont il est question ici est la Menth
 
 *) A. R. Delile, _Floræ ægypt. illustr._, n° 536.
 
-7\. [HIERO], [HIERO], [HIERO]. Il est impossible d'identifier aucun de ces deux mots à l'aide du copte ou des langues sémitiques. Pour _djalem_, on trouve en copte, à part ⲕⲣⲁⲙ, ⲡⲓ,* un mot ϭⲗⲏⲓⲙⲓ, ⲡⲓ, traduit en arabe par [ARABIC]. Kircher rend ce mot arabe par _Nasturtium_, qui est une espèce de cresson ; d'autre part, [ARABIC] est le nom du _Raphanus recurvus_ Pers., _R. lyratus_ Forsk. Ces plantes, qui n'ont d'ailleurs aucune qualité aromatique, poussent au bord de l'eau. Or, justement, le seul document égyptien qui, en dehors des recettes de parfumerie, fasse mention du _djalem_, nous apprend que « les pays bien arrosés ne produisent pas le parfum _djalem.* » Le _djalem_ ne peut donc être le ϭⲗⲏⲓⲙⲓ, ou du moins le ϭⲗⲏⲓⲙⲓ tel que l'ouvrage de Kircher nons permet de nous le représenter. Quant à _djabâ_, je ne trouve dans les lexiques coptes aucun mot qui puisse en dériver.
+7\. [HIERO], [HIERO], [HIERO]. Il est impossible d'identifier aucun de ces deux mots à l'aide du copte ou des langues sémitiques. Pour _djalem_, on trouve en copte, à part ⲕⲣⲁⲙ, ⲡⲓ,* un mot ϭⲗⲏⲓⲙⲓ, ⲡⲓ, traduit en arabe par رشاد. Kircher rend ce mot arabe par _Nasturtium_, qui est une espèce de cresson ; d'autre part, رشاد البّر est le nom du _Raphanus recurvus_ Pers., _R. lyratus_ Forsk. Ces plantes, qui n'ont d'ailleurs aucune qualité aromatique, poussent au bord de l'eau. Or, justement, le seul document égyptien qui, en dehors des recettes de parfumerie, fasse mention du _djalem_, nous apprend que « les pays bien arrosés ne produisent pas le parfum _djalem.* » Le _djalem_ ne peut donc être le ϭⲗⲏⲓⲙⲓ, ou du moins le ϭⲗⲏⲓⲙⲓ tel que l'ouvrage de Kircher nons permet de nous le représenter. Quant à _djabâ_, je ne trouve dans les lexiques coptes aucun mot qui puisse en dériver.
 
 *) Mot à sens douteux, dans lequel Kircher voit une fois le _Persil_, une autre fois le _Carthame_.
 
@@ -606,13 +606,13 @@ On trouvera réunies, dans le supplément du _Dictionnaire hiéroglyphique_ de M
 
 Aujourd'hui, l'équation [HIERO] vient détruire complètement mon assimilation de l'an dernier. _Pershou_ est le nom spécial des graines de l'_ouân_. Or, l'_ouân_ est un arbre. Nous ne pouvons donc plus songer à la Coriandre, et il nous faut chercher ailleurs l'équivalent du _pershou_.
 
-Le problème, posé dans sa nouvelle forme, consiste à rechercher ce qu'est l'arbre _ouân_. Les deux phrases suivantes nous indiquent que le [HIERO] produit de la poix, ⲥⲓϥⲓ, ⲥⲓⲃⲉ, [ARABIC], _cedrium_, _pix cedri_ (hebr. זֶפֶת, chald. זפא, ar. [ARABIC], _pix_) : [HIERO] « elle vient à toi, la poix produite par l'_ouân_* ; » [HIERO]‎ « de la poix d'_ouân_.* » Poix et Cèdre nous font de suite penser à un Conifère.
+Le problème, posé dans sa nouvelle forme, consiste à rechercher ce qu'est l'arbre _ouân_. Les deux phrases suivantes nous indiquent que le [HIERO] produit de la poix, ⲥⲓϥⲓ, ⲥⲓⲃⲉ, قطران, _cedrium_, _pix cedri_ (hebr. זֶפֶת, chald. זפא, ar. زفت, _pix_) : [HIERO] « elle vient à toi, la poix produite par l'_ouân_* ; » [HIERO]‎ « de la poix d'_ouân_.* » Poix et Cèdre nous font de suite penser à un Conifère.
 
 *) G. Maspero, _Mém. sur quelques pap. du Louvre_, p. 21, n. 6.
 
 *) _Ib._, p. 32, n. 3.
 
-Le nom de l'_ouân_ est écrit, dans les textes, de diverses manières. Au lieu de [HIERO], on trouve souvent [HIERO].* Parfois le [HIERO] se change en [HIERO], et l'on a [HIERO].* Le [HIERO] peut même tomber et fournir la forme [HIERO].* Si l'on recherche dans les langues voisines de l'égyptien des formes analogues à _ouâr_, _âr_, on a ⲁⲣⲟ, _cypressus_, אֵלָח, _terebinthus_, [ARABIC], _juniperus_, mots dont deux désignent des Conifères et le troisième un arbre résineux. Enfin, l'hébreu בְּרוֹשׁ, qui rend presque lettre pour lettre l'égyptien [HIERO], est également le nom d'un Conifère, le Cyprès.
+Le nom de l'_ouân_ est écrit, dans les textes, de diverses manières. Au lieu de [HIERO], on trouve souvent [HIERO].* Parfois le [HIERO] se change en [HIERO], et l'on a [HIERO].* Le [HIERO] peut même tomber et fournir la forme [HIERO].* Si l'on recherche dans les langues voisines de l'égyptien des formes analogues à _ouâr_, _âr_, on a ⲁⲣⲟ, _cypressus_, אֵלָח, _terebinthus_, عرعر, _juniperus_, mots dont deux désignent des Conifères et le troisième un arbre résineux. Enfin, l'hébreu בְּרוֹשׁ, qui rend presque lettre pour lettre l'égyptien [HIERO], est également le nom d'un Conifère, le Cyprès.
 
 *) _Pap. méd. de Berlin_, 10, 8 ; 12, 7 ; 14, 10, etc.
 
