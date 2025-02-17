@@ -46,7 +46,7 @@ Les recettes grecques nous ont été transmises par Dioscoride,* Plutarque* et G
 
 « Le kyphi est un parfum à brûler fort recherché pour le culte, et dont les prêtres égyptiens font le plus grand usage. On le mélange aussi aux antidotes, et on le donne en boisson aux asthmatiques. Il existe plusieurs recettes de ce parfum ; voici l'une d'entre elles : »
 
-« Prenez un demi-setier de cyperus, et la même quantité de baies de genièvre bien grasses ; 12 mines de raisins secs charnus, débarrassés de leurs pépins ; 5 mines de résine purifée ; calame aromatique, aspalathe, schœnus, 1 mine de chaque ; myrrhe, drachmes; vin vieux, 9 setiers ; miel, 2 mines. »
+« Prenez un demi-setier de cyperus, et la même quantité de baies de genièvre bien grasses ; 12 mines de raisins secs charnus, débarrassés de leurs pépins ; 5 mines de résine purifiée ; calame aromatique, aspalathe, schœnus, 1 mine de chaque ; myrrhe, drachmes; vin vieux, 9 setiers ; miel, 2 mines. »
 
 « Après avoir débarrassé les raisins secs de leurs pépins, hachez-les et broyez-les avec le vin et la myrrhe ; pilez ensuite les autres substances, mélanges-les aux précédentes, et laissez macérer le tout pendant une journée. »
 
@@ -76,7 +76,7 @@ Les recettes grecques nous ont été transmises par Dioscoride,* Plutarque* et G
 
 Dioscoride n'indique pour le kyphi que onze substances, en considérant, ainsi que le fait Plutarque, les deux espèces de genièvre comme deux substances. Plutarque et Galien en indiquent seize, et l'auteur du traité _Sur Isis et Osiris_ insiste sur la raison qui a motivé ce nombre spécial. En fait, les recettes égyptiennes, comme on le verra plus loin, énumèrent effectivement seize ingrédients.
 
-Les recettes grecques ne sont pas identiques. Onze substances seulement se retrouvent dans les trois textes. Ce sont le miel, le vin, les raisins secs, le cyperus, la résine,* la myrrhe, l'aspalathe, les deux espèces de genièvre, le calame et le schœnus, c'est-à-dire justement toutes les substances mentionnées par Dioscoride. Il y a divergence au sujet des cinq autres, à part pourtant pour le cardamome (Plut.), que Galien cite comme pouvant remplacer le cinnamome. Du reste, si mes identifications des noms de plantes pharaoniques sont justes, aucune des deux recettes à seize substances ne se rapporte exactement à la recette égyptienne.
+Les recettes grecques ne sont pas identiques. Onze substances seulement se retrouvent dans les trois textes. Ce sont le miel, le vin, les raisins secs, le cyperus, la résine,* la myrrhe, l'aspalathe, les deux espèces de genièvre, le calame et le schœnus, c'est-à-dire justement toutes les substances mentionnées par Dioscoride. Il y a divergence au sujet des cinq autres, à part pourtant pour la cardamome (Plut.), que Galien cite comme pouvant remplacer le cinnamome. Du reste, si mes identifications des noms de plantes pharaoniques sont justes, aucune des deux recettes à seize substances ne se rapporte exactement à la recette égyptienne.
 
 *) Ῥητίνη, sans épithète, est généralement, et je crois avec raison, considéré comme un synonyme de τερμινθίνη.
 
@@ -160,7 +160,7 @@ Des trois textes hiéroglyphiques qui nous ont transmis la forme égyptienne de 
 
 *) _Ib._, 4, 84.
 
-La recette du kyphi se divise naturellement en cinq sections, qui indiquent autant de phases des manipulations, et que nous traiterons chacune à part pour la commodité et la clarté de l'étude. C'est là un procédé fort utile à employer, qui permet de mieux préciser les détails d'un long texte sans en modifier en rien la forme d'ensemble. Je désigne par **A** le premier texte d'Edfou,* par **B** celui de Philé, et par **C** le second texte d'Edfou.* J'ajouterai enfin que, le commentaire de ces inscriptions étant déjà assez embarrassé par des remarques philologiques et mathématiques, je réserverai pour un chapitre spécial l'identification des divers ingrédients mentionnés dans la recette du kyphi, me contentant, dans la traduction littérale, d'en donner simplement la transcriplion en lettres françaises.
+La recette du kyphi se divise naturellement en cinq sections, qui indiquent autant de phases des manipulations, et que nous traiterons chacune à part pour la commodité et la clarté de l'étude. C'est là un procédé fort utile à employer, qui permet de mieux préciser les détails d'un long texte sans en modifier en rien la forme d'ensemble. Je désigne par **A** le premier texte d'Edfou,* par **B** celui de Philé, et par **C** le second texte d'Edfou.* J'ajouterai enfin que, le commentaire de ces inscriptions étant déjà assez embarrassé par des remarques philologiques et mathématiques, je réserverai pour un chapitre spécial l'identification des divers ingrédients mentionnés dans la recette du kyphi, me contentant, dans la traduction littérale, d'en donner simplement la transcription en lettres françaises.
 
 *) _Ib._, 4, 82.
 
@@ -176,7 +176,7 @@ B\. [HIERO]
 
 A\. [HIERO]
 
-Ces deux textes correspondent exactement l'un à l'autre pour la première partie du titre : _Recette pour faire le kyphi deux fois bon pour les choses divines._ Seul, le texte **A** donne la suite : _à l'usage des temples_ : _kyphi pesant_ ten _cent en nombre_. Cette indication de la quantité à obtenir a une grande importance, car nous verrons qu'en effet le poids total du parfum résultant de la préparation se trouve, à quelques grammes près, arriver à cent _ten_. 
+Ces deux textes correspondent exactement l'un à l'autre pour la première partie du titre : _Recette pour faire le kyphi deux fois bon pour les choses divines._ Seul, le texte **A** donne la suite : _à l'usage des temples_ : _kyphi pesant_ ten _cent en nombre_. Cette indication de la quantité à obtenir à une grande importance, car nous verrons qu'en effet le poids total du parfum résultant de la préparation se trouve, à quelques grammes près, arriver à cent _ten_. 
 
 Le texte **C** donne, sous une autre forme, un titre presque analogue, et dans lequel il est également fait mention des cent _ten_ :
 
@@ -354,7 +354,7 @@ C\. [HIERO]
 
 « Mettre le tout dans le récipient, autrement dit _Mârekh_, de sorte que les aromates imprégnés pour le kyphi s'élèvent en tout au poids de _ten_ 60,6 1/3 (= 31,8 x 8 x 20,8 1/3). --- Les laisser jusqu'au cinquième jour. »
 
-Il nous reste, pour complèter l'étude de cette section, à élucider quelques termes nouveaux.
+Il nous reste, pour compléter l'étude de cette section, à élucider quelques termes nouveaux.
 
 Le groupe [HIERO] **A**, var. [HIERO] **C**, doit se lire _χnoum our-t_. Le déterminatif représente un récipient circulaire, concave, muni d'un manche. Le synonyme [HIERO] donné par le texte **C**, semble indiquer que ce récipient est en cuivre, d'abord à cause du déterminatif [HIERO], ensuite à cause de son sens radical ⲙⲟⲣϣ, πυῤῥὸς, _rufus_, _rubicundus_, qui fait allusion à la couleur du métal. Ce récipient devait être de grande dimension, puisqu'il peut contenir près de 63 _ten_ de matières, soit un peu moins de 6 kilogrammes. Son nom _χnoum our-t_, « le grand réunisseur, »‏ vient de ses dimensions et de son emploi dans les mélanges de laboratoires ; c'est une sorte de grande bassine en cuivre. Le même mot, du reste, se rencontre dans un texte que j'ai déjà étudié,* sous la forme [HIERO], dans laquelle le manche du récipient se termine par un crochet. Il s'agit, dans ce texte, d'une bassine pouvant contenir au moins 4 litres d'un mélange de terre, encens, myrrhe, etc.
 
@@ -364,7 +364,7 @@ Une nouvelle expression est rendue par trois synonymes, [HIERO], [HIERO] et [HIE
 
 *) Cf. ⲕⲓⲥⲉ ⲛ̄ ⲕⲓⲙ, لكبّة التى لا تعرف, _granum_ (_quod ignoratur_) (_Zeitschr._, 1886, p. 91), ⲕⲁⲥ, _granulum_, _nucleus fructuum_ (A. Peyron, _Lex._, p. 71).
 
-Nous devons relever, en dernier lieu, une erreur de gravure qui a fait mettre, dans le texte **B**, [HIERO] au lieu de [HIERO], comme poids des déchets, et l'orthographe curieuse [HIERO], à la fin du texte **C**, dans la quelle [HIERO] est l'indication du nombre ordinal, et [HIERO] une forme inusitée de [HIERO].
+Nous devons relever, en dernier lieu, une erreur de gravure qui a fait mettre, dans le texte **B**, [HIERO] au lieu de [HIERO], comme poids des déchets, et l'orthographe curieuse [HIERO], à la fin du texte **C**, dans laquelle [HIERO] est l'indication du nombre ordinal, et [HIERO] une forme inusitée de [HIERO].
 
 # 6\.
 
@@ -392,7 +392,7 @@ B\. ...
 
 « Mettre dans une marmite. Cuire jusqu'à un degré d'épaississement* tel, que la quantité perdue au feu soit de 1/5 du poids, ou _ten_ 9,3 1/3, de sorte qu'il reste _ten_ 37,3 1/3. »
 
-*) Litt. « à un tiers d'épaississement. » [HIERO], écrit [HIERO] dans le texte **C**, paraît dériver du radical [HIERO], [HIERO], lequel a comme sens premier celui de « resserrer, contracter. » De _contracter_ à _épaissir_ la nuance est presque insaisissable : une masse qui se contracte s'épaissit nécessairement, en ce sens qu'elle présente dans un espace donné un plus grand nombre de molécules. Du reste, le sens « épaissir » est prouvé par un certain nombre d'exemples. Dans un tombeau de Béni-Hassan (Ch., _Not. descr._, 2, 371), des personnages qui renforcent la plâte en y versant de la farine sont accompagnés de la légende [HIERO], [HIERO], « épaissir la pâte. » La phrase suivante précise encore mieux le sens : [HIERO] (Br. et Düm., _Rec._, 4, 97, 16), « Si tu trouves (cet onguent) trop mou, tu l'épaissis avec de l'encens ; si tu le trouves trop dur, tu l'éclaircis avec de l'essence de styrax. » Enfin, on trouve le même mot dans cette expression : [HIERO] (_Gr. Pap. Harris_, 1, 18, 6). [HIERO] (_Pap. médic. de Londres_, fragm. 2, p. 1, l. 3), où il désigne une résine épaisse, sèche, par opposition à la résine fraîche, [HIERO]. Un nouveau mot est donc à ajouter au dictionnaire : *saq**, déterminé par [HIERO], « épaissir (au feu, par évaporation). »
+*) Litt. « à un tiers d'épaississement. » [HIERO], écrit [HIERO] dans le texte **C**, paraît dériver du radical [HIERO], [HIERO], lequel a comme sens premier celui de « resserrer, contracter. » De _contracter_ à _épaissir_ la nuance est presque insaisissable : une masse qui se contracte s'épaissit nécessairement, en ce sens qu'elle présente dans un espace donné un plus grand nombre de molécules. Du reste, le sens « épaissir » est prouvé par un certain nombre d'exemples. Dans un tombeau de Béni-Hassan (Ch., _Not. descr._, 2, 371), des personnages qui renforcent la pâte en y versant de la farine sont accompagnés de la légende [HIERO], [HIERO], « épaissir la pâte. » La phrase suivante précise encore mieux le sens : [HIERO] (Br. et Düm., _Rec._, 4, 97, 16), « Si tu trouves (cet onguent) trop mou, tu l'épaissis avec de l'encens ; si tu le trouves trop dur, tu l'éclaircis avec de l'essence de styrax. » Enfin, on trouve le même mot dans cette expression : [HIERO] (_Gr. Pap. Harris_, 1, 18, 6). [HIERO] (_Pap. médic. de Londres_, fragm. 2, p. 1, l. 3), où il désigne une résine épaisse, sèche, par opposition à la résine fraîche, [HIERO]. Un nouveau mot est donc à ajouter au dictionnaire : **saq**, déterminé par [HIERO], « épaissir (au feu, par évaporation). »
 
 Ces poids sont parfaitement justes ; en effet, 46,6 2/3 - 9,3 1/3 = 37,3 1/3. Le texte **B** s'interrompt brusquement par suite d'un bourdon ; [HIERO] revient en effet dans la phrase suivante, et le graveur a passé tout l'ensemble de signes compris entre ces deux [HIERO]. 
 
@@ -416,7 +416,7 @@ Le texte **C** est, dans cette section, un peu moins explicite que les textes **
 
 C\. [HIERO]
 
-« Résine fraîche, _ten_ 10. On la fait épaissir au feu de telle sorte qe la perte produite par l'évaporation soit de _ten_ 1,1 1/9, [soit 1/9 du poids total. Reste _ten_ 8,8 8/9]. »
+« Résine fraîche, _ten_ 10. On la fait épaissir au feu de telle sorte que la perte produite par l'évaporation soit de _ten_ 1,1 1/9, [soit 1/9 du poids total. Reste _ten_ 8,8 8/9]. »
 
 La fin de cette phrase est complètement fautive. Il faut restituer, comme le prouvent le calcul des quantités et la suite du texte, la formule suivante après [HIERO].
 
@@ -498,7 +498,7 @@ Aucun indice ne nous permettrait donc de savoir au juste à laquelle des deux il
 
 3\. [HIERO]. Sur les quatre mots qui servent à dénommer cet ingrédient, un seul est déterminé par le signe [HIERO] ; d'où nous pouvons conclure, a priori, que le _sheb_ ou _fet_ n'est pas une plante. Le signe [HIERO] surtout, qui détermine ordinairement les noms de matières présentant une consistance pâteuse, nous engage à voir dans cet aromate autre chose qu'une herbe. Un radical [HIERO], conservé en copte sous la forme ϥⲱⲧⲉ, ϥⲱϯ, ἱδρὼς, _sudor_, et signifiant « suer, exsuder, » nous porte à considérer [HIERO] comme le nom d'une gomme ou d'une résine découlant d'un végétal. D'autre part, un second mot copte, ϣⲟⲟⲩ, ϣⲟⲟⲩⲉ, _unguentum_, _thus_, peut représenter l'égyptien [HIERO],‎ et continuerait à nous donner l'idée d'une résine odorante.
 
-Le mot [HIERO], sans le déterminatif [HIERO], est mis, au papyrus Ebers, en rapport avec le figuier : [HIERO] (70, 4), [HIERO] (70, 17). Le déterminatif [HIERO] qu second exemple semble montrer qu'il s'agit d'une substance liquide. Or, on sait que le figuier laisse découler par incision une sève laiteuse, qui durcit à l'air, et que l'on trouve souvent mentionnée dans l'ancienne thérapeutique.* Enfin, le déterminatif [HIERO] lui-même, qui se place ordinairement après les mots exprimant l'idée « couper, trancher, » semble faire allusion à l'incision par laquelle on obtenait le [HIERO].
+Le mot [HIERO], sans le déterminatif [HIERO], est mis, au papyrus Ebers, en rapport avec le figuier : [HIERO] (70, 4), [HIERO] (70, 17). Le déterminatif [HIERO] du second exemple semble montrer qu'il s'agit d'une substance liquide. Or, on sait que le figuier laisse découler par incision une sève laiteuse, qui durcit à l'air, et que l'on trouve souvent mentionnée dans l'ancienne thérapeutique.* Enfin, le déterminatif [HIERO] lui-même, qui se place ordinairement après les mots exprimant l'idée « couper, trancher, » semble faire allusion à l'incision par laquelle on obtenait le [HIERO].
 
 *) Pline et Dioscoride, _loc. cit._
 
@@ -538,7 +538,7 @@ Voici, pour épuiser la question, les autres variantes que je connais de mot [HI
 
 Un fait est à remarquer, c'est que, dans presque toutes les recettes de parfumerie, le _tas_ est toujours mentionné à côté du _qat_, de même que la Cannelle et le Cinnamome sont ordinairement nommés ensemble dans les textes grecs ou dans les passages de la Bible où il est fait mention d'aromates. Il est donc fort probable que le _tas_ est le Cinnamome, _Laurus Cinnamomum_ Andr., dont l'écorce était employée comme celle de la Cannelle. Cette identification est d'autant plus admissible que le Cinnamome fait partie des bois aromatiques mentionnés dans les recettes grecques du kyphi.
 
-Le _tas_ est représenté, dans le tombeau de _Reχmara_,* sous la forme d'un monceau de fragments rougeâtres analogues à ceux qui, dans la même tombe, servaient à représenter les racines de l'Acore. Un texte nous apprend que le _tas_ faisait partie des productions du pays de [HIERO].* Or, Diodore* et Strabon* désignent l'Arabie heureuse comme pays producteur du Cinnamome. Strabon nous apprend qu'il croissit aussi dans l'Éthiopie orientale, et Pline* rapporte qu'il ne poussait qu'en Éthiopie, mais que c'était seulement par l'intermédiaire des habitants de l'Arabie heureuse qu'on pouvait se le procurer.
+Le _tas_ est représenté, dans le tombeau de _Reχmara_,* sous la forme d'un monceau de fragments rougeâtres analogues à ceux qui, dans la même tombe, servaient à représenter les racines de l'Acore. Un texte nous apprend que le _tas_ faisait partie des productions du pays de [HIERO].* Or, Diodore* et Strabon* désignent l'Arabie heureuse comme pays producteur du Cinnamome. Strabon nous apprend qu'il croissait aussi dans l'Éthiopie orientale, et Pline* rapporte qu'il ne poussait qu'en Éthiopie, mais que c'était seulement par l'intermédiaire des habitants de l'Arabie heureuse qu'on pouvait se le procurer.
 
 *) V. Loret, _Note complémentaire sur le kanna_ (_Rec._, 4, 156).
 
@@ -642,7 +642,7 @@ Tout le monde connaît maintenant ces grappes d'odorantes fleurs jaunes qui semb
 
 Le Mimosa odorant, dont les fleurs sont connues dans le Midi sous le nom de Cassie, est un arbrisseau très commun en Égypte, aussi bien dans l'antiquité que de nos jours, l'_Acacia Farnesiana_ Willd. Il est souvent figuré dans les tombes, et je me souviens d'une planche de Champollion, dont malheureusement je n'ai pas conservé le numéro, où des oiseaux sont représentés en couleurs, au milieu de fleurs de Cassie dont le velouté et la légèreté ont été admirablement rendus par l'artiste égyptien. Il ne peut donc y avoir aucun doute au sujet de la plante ici désignée ; c'est bien l'_Acacia Farnesiana_.
 
-Cette identification me forcera de changer celle que J'avais autrefois proposée pour l'Acacia [HIERO].* Mais, depuis cette époque, jai retrouvé les noms de deux nouvelles espèces d'Acacias égyptiens, --- on sait qu'il en existe une vingtaine en Égypte, --- et je compte publier prochainement, sur les Mimosées pharaoniques, un travail d'ensemble qui remettra chaque chose en sa place.
+Cette identification me forcera de changer celle que J'avais autrefois proposée pour l'Acacia [HIERO].* Mais, depuis cette époque, j'ai retrouvé les noms de deux nouvelles espèces d'Acacias égyptiens, --- on sait qu'il en existe une vingtaine en Égypte, --- et je compte publier prochainement, sur les Mimosées pharaoniques, un travail d'ensemble qui remettra chaque chose en sa place.
 
 *) _Rec._, 2, 60-65.
 
@@ -678,7 +678,7 @@ Quant au mot [HIERO], dont [HIERO] ne peut être ici qu'une orthographe fautive 
 
 *) Br. et Düm., _Rec._, 4, 91.
 
-12\. [HIERO], [HIERO], [HIERO]. L'ingrédient nommé ici est certainement le raisin sec, σταφίς, qui se retrouve dans les trois recettes grecques. Le seul terme nouveau est [HIERO], [HIERO], [HIERO], auquel la recette C donne [HIERO], « raisin, » comme synonyme. Ce mot, dérivé de la racine [HIERO], paraît désigner en général tout fruit sêché au soleil ; d'où des expressions comme [HIERO],* [HIERO],* littéralement « fruits secs de raisins, » σταφίδες ἀμπέλου.
+12\. [HIERO], [HIERO], [HIERO]. L'ingrédient nommé ici est certainement le raisin sec, σταφίς, qui se retrouve dans les trois recettes grecques. Le seul terme nouveau est [HIERO], [HIERO], [HIERO], auquel la recette C donne [HIERO], « raisin, » comme synonyme. Ce mot, dérivé de la racine [HIERO], paraît désigner en général tout fruit séché au soleil ; d'où des expressions comme [HIERO],* [HIERO],* littéralement « fruits secs de raisins, » σταφίδες ἀμπέλου.
 
 *) _Pap. Ebers_, 35, 22.
 
@@ -686,7 +686,7 @@ Quant au mot [HIERO], dont [HIERO] ne peut être ici qu'une orthographe fautive 
 
 13-16\. [HIERO], [HIERO], [HIERO] ; [HIERO], [HIERO] ; [HIERO], [HIERO] ; [HIERO], [HIERO], [HIERO]. Aucun de ces mots, grâce aux synonymes, ne présente de difficulté. _Khar_ est le nom bien connu de la myrrhe. Les expressions‎ _Œil d'Horus vert_ et _Œil d'Horus doux_ sont les dénominations mystiques du vin et du miel, [HIERO] et [HIERO]. Seul, le terme [HIERO] a besoin d'explication.
 
-A priori, ce mot ne paraît pouvoir répondre qu'au grec ῥητίνη « résine, » qui revient dans les trois listes grecques et dont nous n'avons pas l'équivalent dans les autres mots égyptiens. Le mot [HIERO], qu'on lit tantôt _ba_, tantôt _ânti_, se trouve écrit mille fois au-dessus de personnages tenant un encensoir allumé et y jetant des grains désignés par ce mot. Ce n'est pas d'encens qu'il s'agit, puisque le mot encens, [HIERO], est connu par ailleurs et se trouve précisément, dans bien des textes, en parallélisme avec le mot [HIERO] lui-même.* D'ailleurs, --- quoique en somme ce ne soit là qu'un argument de valeur secondaire, --- l'encens n'est pas mentionné dans les recettes grecques. [HIERO] ne peut non plus désigner la myrrhe, qui est nommée [HIERO]. Ce ne peut donc être que la résine.
+A priori, ce mot ne paraît pouvoir répondre qu'au grec ῥητίνη « résine, » qui revient dans les trois listes grecques et dont nous n'avons pas l'équivalent dans les autres mots égyptiens. Le mot [HIERO], qu'on lit tantôt _ba_, tantôt _ânti_, se trouve écrit mille fois au-dessus de personnages tenant un encensoir allumé et y jetant des grains désignés par ce mot. Ce n'est pas d'encens qu'il s'agit, puisque le mot encens, [HIERO], est connu par ailleurs et se trouve précisément, dans bien des textes, en parallélisme avec le mot [HIERO] lui-même.* D'ailleurs, --- quoiqu'en somme ce ne soit là qu'un argument de valeur secondaire, --- l'encens n'est pas mentionné dans les recettes grecques. [HIERO] ne peut non plus désigner la myrrhe, qui est nommée [HIERO]. Ce ne peut donc être que la résine.
 
 *) _Les fêtes d'Osiris_, passim.
 
@@ -706,9 +706,9 @@ Un mot égyptien, d'un emploi très fréquent, [HIERO], _sonter_, ⲥⲟⲛⲧ�
 
 # 9\.
 
-Si nous comparons maintenant le kyphi égyptien au κῦφι grec, nous obtenons le resultat suivant : sur seize aromates, dix reviennent dans toutes les recettes, grecques et égyptiennes, et ce sont justement les dix de Dioscoride ; trois autres, la Cannelle, le Cinnamome et le Lentisque, qui ne sont mentionnés que dans une seule recette grecque, sont cités dans les recettes égyptiennes ; enfin, trois ingrédients ne se rencontrent que dans le texte égyptien, le Menthe, le Henné et le Mimosa.
+Si nous comparons maintenant le kyphi égyptien au κῦφι grec, nous obtenons le résultat suivant : sur seize aromates, dix reviennent dans toutes les recettes, grecques et égyptiennes, et ce sont justement les dix de Dioscoride ; trois autres, la Cannelle, le Cinnamome et le Lentisque, qui ne sont mentionnés que dans une seule recette grecque, sont cités dans les recettes égyptiennes ; enfin, trois ingrédients ne se rencontrent que dans le texte égyptien, le Menthe, le Henné et le Mimosa.
 
-Voici, comme résumé de cette étude, une traduction simplifiée de la recette égyptienne, avec réduction des poids égyptiens en poids francais, à l'usage de ceux qui auraient la curiosité de faire exécuter le kyphi dans un laboratoire de parfumerie. J'ai eu moi-même, tout le premier, cette curiosité scientifique et je dois témoigner ici à notre éminent et regretté compatriote, M. Eugène Rimmel, auteur d'une très érudite _Histoire de la parfumerie_,* toute ma reconnaissance pour la bienveillance avec laquelle il s'est prêté à mes essais de résurrection d'un antique parfum égyptien.
+Voici, comme résumé de cette étude, une traduction simplifiée de la recette égyptienne, avec réduction des poids égyptiens en poids français, à l'usage de ceux qui auraient la curiosité de faire exécuter le kyphi dans un laboratoire de parfumerie. J'ai eu moi-même, tout le premier, cette curiosité scientifique et je dois témoigner ici à notre éminent et regretté compatriote, M. Eugène Rimmel, auteur d'une très érudite _Histoire de la parfumerie_,* toute ma reconnaissance pour la bienveillance avec laquelle il s'est prêté à mes essais de résurrection d'un antique parfum égyptien.
 
 *) _Le Livre des parfums_, gr. in-8°, Paris, Le Dentu, 1884.
 
