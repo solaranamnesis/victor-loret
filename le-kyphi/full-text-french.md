@@ -723,7 +723,7 @@ _Laurus Cassia_ L. --- 270 gr.
 _L. Cinnamomum_ Andr. --- 270 gr.  
 _Mentha piperita_ L. --- 270 gr.  
 _Convolvulus scoparius_ L. --- 270 gr.  
-1,870 gr.
+1,870 gr. [_sic_ 1,890 gr.]
 
 Piler très fin, passer au crible. N'employer que les 2/5 de la masse, soit la partie la plus odorante et la mieux pulvérisée. --- 756 gr.
 
