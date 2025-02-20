@@ -156,7 +156,7 @@ Des trois textes hiéroglyphiques qui nous ont transmis la forme égyptienne de 
 
 *) _Not. descript._, 1, 194.
 
-*) Br. et Düm., _Rec., 2, 79. Cette copie ne donne que trois colonnes sur six que comporte la recette.
+*) Br. et Düm., _Rec._, 2, 79. Cette copie ne donne que trois colonnes sur six que comporte la recette.
 
 *) _Ib._, 4, 84.
 
