@@ -32,7 +32,7 @@
 
 # 1\.
 
-Les auteurs classiques nous ont fait connaître l'existence, chez les anciens Égyptiens, d'un parfum sacré dont ils transcrivent le nom κῦφι. Je réserverai pour un prochain travail l'étude du kyphi au point de vue de‎ son emploi dans le culte égyptien et de son importation dans le monde gréco-romain. Je ne veux aujourd'hui que comparer, aux trois plus anciennes recettes fournies par les auteurs grecs, trois inscriptions d'époque ptolémaïque qui nous enseignent, en hiéroglyphes, la manière de préparer ce parfum.
+Les auteurs classiques nous ont fait connaître l'existence, chez les anciens Égyptiens, d'un parfum sacré dont ils transcrivent le nom κῦφι. Je réserverai pour un prochain travail l'étude du kyphi au point de vue de son emploi dans le culte égyptien et de son importation dans le monde gréco-romain. Je ne veux aujourd'hui que comparer, aux trois plus anciennes recettes fournies par les auteurs grecs, trois inscriptions d'époque ptolémaïque qui nous enseignent, en hiéroglyphes, la manière de préparer ce parfum.
 
 Les recettes grecques nous ont été transmises par Dioscoride,* Plutarque* et Galien.* En voici la traduction :
 
@@ -92,7 +92,7 @@ Si j'ai tenu à rassembler ici les trois principales recettes grecques que nous 
 
 # 2\.
 
-Un point reste à éclaircir avant d'entreprendre la traduction des recettes égyptiennes. Quel est le mot hiéroglyphique qui a donné lieu à la transcription κῦφι‎ et quel en est le sens exact ?
+Un point reste à éclaircir avant d'entreprendre la traduction des recettes égyptiennes. Quel est le mot hiéroglyphique qui a donné lieu à la transcription κῦφι et quel en est le sens exact ?
 
 D'après toutes les descriptions classiques que nous possédons, le κῦφι est un parfum _à brûler_, θυμίαμα ; c'est là un fait acquis. La composition même du kyphi, --- dans lequel entrent plus de 25 p. % de résines (myrrhe, lentisque et térébenthine) et presque autant de racines et de bois odoriférants, --- nous prouve qu'il ne pouvait guère en être autrement. Que le kyphi ait été employé à des usages divers par les médecins gréco-latins, cela ne change en rien la destination primitive du parfum égyptien, qui était de servir à encenser les dieux.
 
@@ -136,7 +136,7 @@ Ce mot, féminin, devant se lire _kapi_ ou _kouphi_, nous donne l'origine de la 
 
 Le [HIERO] du _Papyrus Ebers_ est un parfum à brûler quelconque, et la meilleure preuve en est qu'aucun des ingrédients qui le composent ne se retrouve dans les recettes du kyphi que nous analyserons plus loin. D'autres exemples de ce sens général se rencontrent dans des textes ptolémaïques.
 
-[HIERO] (Br. et Düm., _Rec._, 4, 98, 1-2). « Je t'apporte tous les aromates que l'on prépare sous forme de parfums à brûler à l'usage de ton culte. »‎ [HIERO] (_Ib._, 80, h). « Un brûle-parfums avec des parfums à brûler en lui.‏ »
+[HIERO] (Br. et Düm., _Rec._, 4, 98, 1-2). « Je t'apporte tous les aromates que l'on prépare sous forme de parfums à brûler à l'usage de ton culte. » [HIERO] (_Ib._, 80, h). « Un brûle-parfums avec des parfums à brûler en lui.‏ »
 
 Enfin, une espèce particulière de parfum à brûler est désignée sous la dénomination officielle [HIERO] (_Ib._, 80, e), [HIERO] (_Ib._, 82, 1), [HIERO] (_Ib._, 84, 1), « parfum à brûler deux fois bon, à l'usage du culte. » C'est ce parfum spécial, dont nous allons étudier les recettes, qui répond au κῦφι des Grecs.
 
@@ -254,7 +254,7 @@ Le mot [HIERO] indique une masse pulvérulente _sèche_, ou relativement sèche 
 
 *) _Ib._, 94, 41.
 
-« Débarrasser la masse du _Rohani_ qui est en elle ; enlever sa poudre première. » Les mots [HIERO] indiquent bien que le _Rohani_ est une partie constituante des aromates ; le texte **C** donne également [HIERO]. De plus, _Nouti_ est désigné comme étant la partie principale, [HIERO], des ingrédients, et c'est en effet la seule dont on fasse usage. Tout végétal se compose d'une partie solide et d'une partie liquide. _Nouti_ désignant la‎ partie solide, _Rohani_ ne peut logiquement désigner que la partie liquide. Ce sens est, d'autre part, rendu presque certain par l'expression [HIERO], employée dans le texte **C** : « après avoir extrait de la masse le _Rohani_ qui est en elle, **il reste** la partie principale, c'est-à-dire le _Nouti_ ou poudre. » La partie solide d'un végétal est généralement plus considérable que sa partie liquide ; aussi voyons-nous le texte **C**, ainsi que les trois autres que nous venons de citer, attribuer au _Rohani_ la plus faible partie de la quantité totale, soit 2/5, 1/4, 1/3. En un mot, le texte même de notre recette nous amène à voir dans le _Rohani_ le suc des plantes.
+« Débarrasser la masse du _Rohani_ qui est en elle ; enlever sa poudre première. » Les mots [HIERO] indiquent bien que le _Rohani_ est une partie constituante des aromates ; le texte **C** donne également [HIERO]. De plus, _Nouti_ est désigné comme étant la partie principale, [HIERO], des ingrédients, et c'est en effet la seule dont on fasse usage. Tout végétal se compose d'une partie solide et d'une partie liquide. _Nouti_ désignant la partie solide, _Rohani_ ne peut logiquement désigner que la partie liquide. Ce sens est, d'autre part, rendu presque certain par l'expression [HIERO], employée dans le texte **C** : « après avoir extrait de la masse le _Rohani_ qui est en elle, **il reste** la partie principale, c'est-à-dire le _Nouti_ ou poudre. » La partie solide d'un végétal est généralement plus considérable que sa partie liquide ; aussi voyons-nous le texte **C**, ainsi que les trois autres que nous venons de citer, attribuer au _Rohani_ la plus faible partie de la quantité totale, soit 2/5, 1/4, 1/3. En un mot, le texte même de notre recette nous amène à voir dans le _Rohani_ le suc des plantes.
 
 Pourtant, en étudiant le mot au point de vue philologique, nous sommes tentés de lui donner un sens moins restreint, d'autant plus qu'il est plus prudent, en ces sortes de recherches, de généraliser un peu que de vouloir trop spécifier. Nous avons relevé six exemples du mot : [HIERO] (deux fois), [HIERO], [HIERO] et [HIERO]. Nous nous trouvons en présence de deux formes, _Rohaï_ et _Rohani_. Mais est-il bien certain que ce soient deux formes ? Le [HIERO] de [HIERO] ne pourrait-il, au besoin, être considéré comme un déterminatif, de même que le [HIERO] de [HIERO], bien que la lettre [HIERO] vienne après ? La forme [HIERO] ne pourrait-elle pas être prise pour une transcription fautive de l'orthographe [HIERO], dans laquelle le [HIERO] aurait été envisagé, à tort, comme équivalent de [HIERO] ? Il serait étrange de trouver, à la même époque et dans une même localité, deux formes si différentes d'un même mot. D'ailleurs, peu importe que le [HIERO] soit fautif ou non, le radical du mot égyptien n'en reste pas moins [HIERO].
 
@@ -304,7 +304,7 @@ B\. [HIERO]
 
 *) Le sens général de cette partie de la phrase est bien évident. Quelques mots nouveaux, ou insuffisamment étudiés jusqu'ici, en rendent néanmoins la traduction littérale peu sûre. Voici celle que je proposerais, sous toute réserve : « La quantité [de vin] qui se perd (_aq_), étant qu'il ne fait point (_au bu ar-f_) entrer dans la masse (_χai_). » La variante [HIERO] de [HIERO] rend incertaine la transcription _bu ar-f_ ; d'autre part, le déterminatif [HIERO], du texte **C**, semble nous donner un autre mot que [HIERO], malgré l'orthographe [HIERO] du texte **A**.
 
-Ce poids de ten 32,9 est le résultat des _ten_ 12,5 de vin absorbés par les _ten_ 20,4 d'ingrédients aromatiques en poudre. On remarquera l'orthographe de basse époque, [HIERO], du chiffre 9.‎
+Ce poids de ten 32,9 est le résultat des _ten_ 12,5 de vin absorbés par les _ten_ 20,4 d'ingrédients aromatiques en poudre. On remarquera l'orthographe de basse époque, [HIERO], du chiffre 9.
 
 Le texte **C** donne les mêmes indications, en insistant davantage sur les rapports qui existent entre le volume en _hin_ et le poids en _ten_ du vin.
 
@@ -496,7 +496,7 @@ Aucun indice ne nous permettrait donc de savoir au juste à laquelle des deux il
 
 *) V. Loret, _loc. cit._
 
-3\. [HIERO]. Sur les quatre mots qui servent à dénommer cet ingrédient, un seul est déterminé par le signe [HIERO] ; d'où nous pouvons conclure, a priori, que le _sheb_ ou _fet_ n'est pas une plante. Le signe [HIERO] surtout, qui détermine ordinairement les noms de matières présentant une consistance pâteuse, nous engage à voir dans cet aromate autre chose qu'une herbe. Un radical [HIERO], conservé en copte sous la forme ϥⲱⲧⲉ, ϥⲱϯ, ἱδρὼς, _sudor_, et signifiant « suer, exsuder, » nous porte à considérer [HIERO] comme le nom d'une gomme ou d'une résine découlant d'un végétal. D'autre part, un second mot copte, ϣⲟⲟⲩ, ϣⲟⲟⲩⲉ, _unguentum_, _thus_, peut représenter l'égyptien [HIERO],‎ et continuerait à nous donner l'idée d'une résine odorante.
+3\. [HIERO]. Sur les quatre mots qui servent à dénommer cet ingrédient, un seul est déterminé par le signe [HIERO] ; d'où nous pouvons conclure, a priori, que le _sheb_ ou _fet_ n'est pas une plante. Le signe [HIERO] surtout, qui détermine ordinairement les noms de matières présentant une consistance pâteuse, nous engage à voir dans cet aromate autre chose qu'une herbe. Un radical [HIERO], conservé en copte sous la forme ϥⲱⲧⲉ, ϥⲱϯ, ἱδρὼς, _sudor_, et signifiant « suer, exsuder, » nous porte à considérer [HIERO] comme le nom d'une gomme ou d'une résine découlant d'un végétal. D'autre part, un second mot copte, ϣⲟⲟⲩ, ϣⲟⲟⲩⲉ, _unguentum_, _thus_, peut représenter l'égyptien [HIERO], et continuerait à nous donner l'idée d'une résine odorante.
 
 Le mot [HIERO], sans le déterminatif [HIERO], est mis, au papyrus Ebers, en rapport avec le figuier : [HIERO] (70, 4), [HIERO] (70, 17). Le déterminatif [HIERO] du second exemple semble montrer qu'il s'agit d'une substance liquide. Or, on sait que le figuier laisse découler par incision une sève laiteuse, qui durcit à l'air, et que l'on trouve souvent mentionnée dans l'ancienne thérapeutique.* Enfin, le déterminatif [HIERO] lui-même, qui se place ordinairement après les mots exprimant l'idée « couper, trancher, » semble faire allusion à l'incision par laquelle on obtenait le [HIERO].
 
@@ -562,7 +562,7 @@ Enfin, chose assez curieuse, le mot indien d'où dérive Cinnamome, _cacyn-nama_
 
 *) _Herbarium_, § 80. (Cette indication est de M. J. Lauth. J'avoue n'avoir trouvé ni le nom _nacophton_, ni même la mention du Romarin dans l'édition d'Apulée que je possède, Aldus, _Venet._, 1547.)
 
-L'autre nom est plus répandu. On le trouve au papyrus Ebers, écrit [HIERO] ; on extrayait de cette plante une huile ou essence nommée [HIERO].‎
+L'autre nom est plus répandu. On le trouve au papyrus Ebers, écrit [HIERO] ; on extrayait de cette plante une huile ou essence nommée [HIERO].
 
 Enfin, toutes les listes d'offrandes, à partir de l'Ancien Empire, mentionnent cette plante sous deux espèces : [HIERO] et [HIERO]. La seconde expression est parfois remplacée par [HIERO]* ou [HIERO].*
 
@@ -606,7 +606,7 @@ On trouvera réunies, dans le supplément du _Dictionnaire hiéroglyphique_ de M
 
 Aujourd'hui, l'équation [HIERO] vient détruire complètement mon assimilation de l'an dernier. _Pershou_ est le nom spécial des graines de l'_ouân_. Or, l'_ouân_ est un arbre. Nous ne pouvons donc plus songer à la Coriandre, et il nous faut chercher ailleurs l'équivalent du _pershou_.
 
-Le problème, posé dans sa nouvelle forme, consiste à rechercher ce qu'est l'arbre _ouân_. Les deux phrases suivantes nous indiquent que le [HIERO] produit de la poix, ⲥⲓϥⲓ, ⲥⲓⲃⲉ, قطران, _cedrium_, _pix cedri_ (hebr. זֶפֶת, chald. זפא, ar. زفت, _pix_) : [HIERO] « elle vient à toi, la poix produite par l'_ouân_* ; » [HIERO]‎ « de la poix d'_ouân_.* » Poix et Cèdre nous font de suite penser à un Conifère.
+Le problème, posé dans sa nouvelle forme, consiste à rechercher ce qu'est l'arbre _ouân_. Les deux phrases suivantes nous indiquent que le [HIERO] produit de la poix, ⲥⲓϥⲓ, ⲥⲓⲃⲉ, قطران, _cedrium_, _pix cedri_ (hebr. זֶפֶת, chald. זפא, ar. زفت, _pix_) : [HIERO] « elle vient à toi, la poix produite par l'_ouân_* ; » [HIERO] « de la poix d'_ouân_.* » Poix et Cèdre nous font de suite penser à un Conifère.
 
 *) G. Maspero, _Mém. sur quelques pap. du Louvre_, p. 21, n. 6.
 
@@ -684,7 +684,7 @@ Quant au mot [HIERO], dont [HIERO] ne peut être ici qu'une orthographe fautive 
 
 *) _Gr. pap. Harris_, 39, 4.
 
-13-16\. [HIERO], [HIERO], [HIERO] ; [HIERO], [HIERO] ; [HIERO], [HIERO] ; [HIERO], [HIERO], [HIERO]. Aucun de ces mots, grâce aux synonymes, ne présente de difficulté. _Khar_ est le nom bien connu de la myrrhe. Les expressions‎ _Œil d'Horus vert_ et _Œil d'Horus doux_ sont les dénominations mystiques du vin et du miel, [HIERO] et [HIERO]. Seul, le terme [HIERO] a besoin d'explication.
+13-16\. [HIERO], [HIERO], [HIERO] ; [HIERO], [HIERO] ; [HIERO], [HIERO] ; [HIERO], [HIERO], [HIERO]. Aucun de ces mots, grâce aux synonymes, ne présente de difficulté. _Khar_ est le nom bien connu de la myrrhe. Les expressions _Œil d'Horus vert_ et _Œil d'Horus doux_ sont les dénominations mystiques du vin et du miel, [HIERO] et [HIERO]. Seul, le terme [HIERO] a besoin d'explication.
 
 A priori, ce mot ne paraît pouvoir répondre qu'au grec ῥητίνη « résine, » qui revient dans les trois listes grecques et dont nous n'avons pas l'équivalent dans les autres mots égyptiens. Le mot [HIERO], qu'on lit tantôt _ba_, tantôt _ânti_, se trouve écrit mille fois au-dessus de personnages tenant un encensoir allumé et y jetant des grains désignés par ce mot. Ce n'est pas d'encens qu'il s'agit, puisque le mot encens, [HIERO], est connu par ailleurs et se trouve précisément, dans bien des textes, en parallélisme avec le mot [HIERO] lui-même.* D'ailleurs, --- quoiqu'en somme ce ne soit là qu'un argument de valeur secondaire, --- l'encens n'est pas mentionné dans les recettes grecques. [HIERO] ne peut non plus désigner la myrrhe, qui est nommée [HIERO]. Ce ne peut donc être que la résine.
 
