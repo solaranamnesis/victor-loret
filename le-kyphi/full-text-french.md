@@ -480,7 +480,7 @@ Il reste à savoir quel pouvait être ce jonc appartenant à la fois à l'Éthio
 
 *) C. Sprengel, _Dioscoride_, vol. 2, p. 344, 354.
 
-La flore éthiopienne antique est fort peu connue, --- on pourrait d'ailleurs presque en dire autant de la moderne ;--- on n'en citait que quelques espèces qui ne faisaient pas partie d'autres flores. Aussi, ne devons-nous pas être étonnés de voir que ni de _cyperus_ ni le _schœnus_ ne sont mentionnés dans les auteurs classiques comme croissant en Éthiopie. En revanche, Dioscoride nous apprend que le schœnus_ se rencontrait en Libye,* et Pline nous indique que le _cyperus_ le plus estimé venait de l'Oasis d'Ammon.* Les deux plantes se trouvent aujourd'hui au Cap de Bonne-Espérance et dans une grande partie de l'Afrique.*
+La flore éthiopienne antique est fort peu connue, --- on pourrait d'ailleurs presque en dire autant de la moderne ;--- on n'en citait que quelques espèces qui ne faisaient pas partie d'autres flores. Aussi, ne devons-nous pas être étonnés de voir que ni de _cyperus_ ni le _schœnus_ ne sont mentionnés dans les auteurs classiques comme croissant en Éthiopie. En revanche, Dioscoride nous apprend que le _schœnus_ se rencontrait en Libye,* et Pline nous indique que le _cyperus_ le plus estimé venait de l'Oasis d'Ammon.* Les deux plantes se trouvent aujourd'hui au Cap de Bonne-Espérance et dans une grande partie de l'Afrique.*
 
 *) _De mat. med._, 1, 16.
 
