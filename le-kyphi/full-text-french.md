@@ -678,7 +678,7 @@ Quant au mot [HIERO], dont [HIERO] ne peut être ici qu'une orthographe fautive 
 
 *) Br. et Düm., _Rec._, 4, 91.
 
-12\. [HIERO], [HIERO], [HIERO]. L'ingrédient nommé ici est certainement le raisin sec, σταφίς, qui se retrouve dans les trois recettes grecques. Le seul terme nouveau est [HIERO], [HIERO], [HIERO], auquel la recette C donne [HIERO], « raisin, » comme synonyme. Ce mot, dérivé de la racine [HIERO], paraît désigner en général tout fruit séché au soleil ; d'où des expressions comme [HIERO],* [HIERO],* littéralement « fruits secs de raisins, » σταφίδες ἀμπέλου.
+12\. [HIERO], [HIERO], [HIERO]. L'ingrédient nommé ici est certainement le raisin sec, σταφίς, qui se retrouve dans les trois recettes grecques. Le seul terme nouveau est [HIERO], [HIERO], [HIERO], auquel la recette **C** donne [HIERO], « raisin, » comme synonyme. Ce mot, dérivé de la racine [HIERO], paraît désigner en général tout fruit séché au soleil ; d'où des expressions comme [HIERO],* [HIERO],* littéralement « fruits secs de raisins, » σταφίδες ἀμπέλου.
 
 *) _Pap. Ebers_, 35, 22.
 
